@@ -1,0 +1,11 @@
+.login-form{
+    max-width: 380px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.login-form div button{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}

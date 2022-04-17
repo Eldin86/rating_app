@@ -1,0 +1,3029 @@
+[
+    {
+        "category": "tv-show",
+        "release_date": "2019-06-16",
+        "id": 85552,
+        "title": "Euphoria",
+        "overview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/jtnfNzqZwN4E32FGGxx1YZaBWWf.jpg",
+        "vote_average": 8.4,
+        "cast": [
+            {
+              "id": 505710,
+              "name": "Zendaya",
+              "profile_path": "/so3GqzuvXbYkNzQYNliAMB5rZzT.jpg",
+              "character": "Rue Bennett"
+            },
+            {
+              "id": 2340180,
+              "name": "Hunter Schafer",
+              "profile_path": "/maGhgmV1TSf99uM5LhRsbZRjYgh.jpg",
+              "character": "Jules Vaughn"
+            },
+            {
+              "id": 2034418,
+              "name": "Jacob Elordi",
+              "profile_path": "/pW1zD9yHazjiZ8yLuYY50ruFymu.jpg",
+              "character": "Nate Jacobs"
+            },
+            {
+              "id": 1497557,
+              "name": "Alexa Demie",
+              "profile_path": "/za0vwIFYmjp8y9qNgQYiextNPvB.jpg",
+              "character": "Maddy Perez"
+            },
+            {
+              "id": 2340185,
+              "name": "Barbie Ferreira",
+              "profile_path": "/kl59GoAbazPffmmZtSLZmUQCK6S.jpg",
+              "character": "Kat Hernandez"
+            },
+            {
+              "id": 115440,
+              "name": "Sydney Sweeney",
+              "profile_path": "/kKRVtMkxJoIqswx8gxAuEe0LZB4.jpg",
+              "character": "Cassie Howard"
+            },
+            {
+              "id": 2352372,
+              "name": "Angus Cloud",
+              "profile_path": "/pFKAYz9OWjL4LQQY9outYxOrY79.jpg",
+              "character": "Fezco"
+            },
+            {
+              "id": 2532098,
+              "name": "Javon 'Wanna' Walton",
+              "profile_path": "/u9fx8Z5MGjfDmD0kbxhrio0ZOh3.jpg",
+              "character": "Ashtray"
+            },
+            {
+              "id": 2711299,
+              "name": "Dominic Fike",
+              "profile_path": "/vtuRZff8c3QNKiShMo25z5M5guD.jpg",
+              "character": "Elliot"
+            },
+            {
+              "id": 148992,
+              "name": "Austin Abrams",
+              "profile_path": "/9pSpSAk9NsYC5puqAVsmSK3OSeu.jpg",
+              "character": "Ethan Lewis"
+            },
+            {
+              "id": 1377458,
+              "name": "Algee Smith",
+              "profile_path": "/8lSjFECJflwHJJGt5e7CqyItXW2.jpg",
+              "character": "Christopher McKay"
+            },
+            {
+              "id": 41090,
+              "name": "Maude Apatow",
+              "profile_path": "/xWj49QAsGlC92YcguaEEYvoMEsg.jpg",
+              "character": "Lexi Howard"
+            },
+            {
+              "id": 98415,
+              "name": "Nika King",
+              "profile_path": "/d91Uci8v9AZufDeufdbGRNJEzpn.jpg",
+              "character": "Leslie Bennett"
+            },
+            {
+              "id": 58115,
+              "name": "Eric Dane",
+              "profile_path": "/qa9WV0VS3Xin0M2shAT0268c1nb.jpg",
+              "character": "Cal Jacobs"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2018-05-02",
+        "id": 77169,
+        "title": "Cobra Kai",
+        "overview": "This Karate Kid sequel series picks up 30 years after the events of the 1984 All Valley Karate Tournament and finds Johnny Lawrence on the hunt for redemption by reopening the infamous Cobra Kai karate dojo. This reignites his old rivalry with the successful Daniel LaRusso, who has been working to maintain the balance in his life without mentor Mr. Miyagi.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/6POBWybSBDBKjSs1VAQcnQC1qyt.jpg",
+        "vote_average": 8.1,
+        "cast": [
+            {
+              "id": 2877,
+              "name": "Ralph Macchio",
+              "profile_path": "/kehn6kNTFPlAYrWJzBzrEu6WHJp.jpg",
+              "character": "Daniel LaRusso"
+            },
+            {
+              "id": 56124,
+              "name": "William Zabka",
+              "profile_path": "/2BqQuz7t4zbmPwKUpzGbyUQLPy3.jpg",
+              "character": "Johnny Lawrence"
+            },
+            {
+              "id": 43483,
+              "name": "Courtney Henggeler",
+              "profile_path": "/soNsMFPhOsdW6jR7oJi6SlXsYYT.jpg",
+              "character": "Amanda LaRusso"
+            },
+            {
+              "id": 1185997,
+              "name": "Xolo Mariduena",
+              "profile_path": "/uGDXdChRXpWFbEfQyvnKriYOvaS.jpg",
+              "character": "Miguel Diaz"
+            },
+            {
+              "id": 1130555,
+              "name": "Tanner Buchanan",
+              "profile_path": "/sjxBAWkL5aSdd6GHozWEAjEA64u.jpg",
+              "character": "Robby Keene"
+            },
+            {
+              "id": 1223084,
+              "name": "Mary Mouser",
+              "profile_path": "/A5AMjqFB5SqWdZh4gOBGQNXK8vf.jpg",
+              "character": "Samantha LaRusso"
+            },
+            {
+              "id": 114446,
+              "name": "Jacob Bertrand",
+              "profile_path": "/j1V1788QXnzZ2Flp5pllqeodjYT.jpg",
+              "character": "Eli 'Hawk' Moskowitz"
+            },
+            {
+              "id": 1776137,
+              "name": "Gianni Decenzo",
+              "profile_path": "/aqbQh0hMt5vRbdhErs32bybr7Ah.jpg",
+              "character": "Demetri"
+            },
+            {
+              "id": 1254435,
+              "name": "Peyton List",
+              "profile_path": "/5p8KwRgBUYVcKBKTYFdD30o6dAc.jpg",
+              "character": "Tory Nichols"
+            },
+            {
+              "id": 1784330,
+              "name": "Vanessa Rubio",
+              "profile_path": "/ArxMTCiBPA6dqxiPmdelYaq2NYl.jpg",
+              "character": "Carmen Diaz"
+            },
+            {
+              "id": 60705,
+              "name": "Thomas Ian Griffith",
+              "profile_path": "/7Ax4V3Aod20tKMmLRPP5UNiiCq0.jpg",
+              "character": "Terry Silver"
+            },
+            {
+              "id": 56117,
+              "name": "Martin Kove",
+              "profile_path": "/vKfS55g6rqldWekNdy4JifuJQsw.jpg",
+              "character": "John Kreese"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2021-12-29",
+        "id": 115036,
+        "title": "The Book of Boba Fett",
+        "overview": "Legendary bounty hunter Boba Fett and mercenary Fennec Shand must navigate the galaxy’s underworld when they return to the sands of Tatooine to stake their claim on the territory once ruled by Jabba the Hutt and his crime syndicate.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/gNbdjDi1HamTCrfvM9JeA94bNi2.jpg",
+        "vote_average": 8.2,
+        "cast":[
+            {
+              "id": 7242,
+              "name": "Temuera Morrison",
+              "profile_path": "/1ckHDFgKXJ8pazmvLCW7DeOKqA0.jpg",
+              "character": "Boba Fett"
+            },
+            {
+              "id": 21702,
+              "name": "Ming-Na Wen",
+              "profile_path": "/eqCzFF83It56cUdjpskzvg8jgq.jpg",
+              "character": "Fennec Shand"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2021-12-26",
+        "id": 154181,
+        "title": "Ace Troops",
+        "overview": "Gao Liang and Gu Yi Ye are good friends and rivals since they joined the army. They fall in love with the same girl, Jiang Nan Zheng. However, Gu Yi Ye eventually gives up his love in the name of friendship and marries A Xiu, the daughter of their old squad leader who died in a war. As time passes, Gao Liang not only stays true to his heart but also shoulders the duties and mission of a soldier. In 2003, Gao Liang and Jiang Nan Cheng got married and formed a happy family. In 2008, Gao Liang, who returns from further studies in Russia, was transferred to be the acting brigade commander of the Blue Army because of an observation report.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/A5Ug19rH4dpnEA8Pe7B0NNXtuRJ.jpg",
+        "vote_average": 6.2,
+        "cast": [
+            {
+              "id": 2084790,
+              "name": "Xiao Zhan",
+              "profile_path": "/2DqsFKgJ1RO2gr4FDMD1Tc7iG9c.jpg",
+              "character": "顾一野"
+            },
+            {
+              "id": 1816461,
+              "name": "Johnny Huang",
+              "profile_path": "/kwdlcmO7CHrkJNegpnBFtoPQWfJ.jpg",
+              "character": "高粱"
+            },
+            {
+              "id": 1815238,
+              "name": "Elaine Zhong",
+              "profile_path": "/tkEzMiPQykYsSC5wIZ9TkHs5OIg.jpg",
+              "character": "江南征"
+            },
+            {
+              "id": 2035969,
+              "name": "Li Youbin",
+              "profile_path": "/bpmU2ZScEmHPl9CXFVXTYUVsTnA.jpg",
+              "character": "郑源"
+            },
+            {
+              "id": 2139109,
+              "name": "He Zhengjun",
+              "profile_path": "/zEwK8JOFHlD1yTinNoRAjLXKnVJ.jpg",
+              "character": "王天明"
+            },
+            {
+              "id": 2198399,
+              "name": "Zhang Zhijian",
+              "profile_path": "/1mtkHgTcHZkjjXujQrX78BAbKto.jpg",
+              "character": "顾衡"
+            },
+            {
+              "id": 2080705,
+              "name": "Honghao Xu",
+              "profile_path": "/umec88C6APaCA3aD9T4xuqJWdYZ.jpg",
+              "character": "宋建设"
+            },
+            {
+              "id": 2966346,
+              "name": "Guan Yajun",
+              "profile_path": "/2FzWCxZehcUeFCoOY8zQQEX2sTM.jpg",
+              "character": "陆平凡"
+            },
+            {
+              "id": 1905062,
+              "name": "Fu Chengpeng",
+              "profile_path": "/y79xQUnkbVhkXUlrAU6HbJQju9Z.jpg",
+              "character": "秦汉勇"
+            },
+            {
+              "id": 2129707,
+              "name": "Sun Xun",
+              "profile_path": "/ecX1txmqle9F3xnbUMRmMviAXhS.jpg",
+              "character": "张飞"
+            },
+            {
+              "id": 1518223,
+              "name": "Mao Linlin",
+              "profile_path": "/wsb9HHNQqG9NeQwXRYj4Jsl45BI.jpg",
+              "character": "阿秀"
+            },
+            {
+              "id": 2287429,
+              "name": "Liu Xiaojie",
+              "profile_path": "/8yrA5n5lAXcOj42RW3z4XbvUcff.jpg",
+              "character": "赵红缨"
+            },
+            {
+              "id": 2287434,
+              "name": "Mengsha Hou",
+              "profile_path": null,
+              "character": "韩春雨"
+            },
+            {
+              "id": 2955424,
+              "name": "Xun Zhao",
+              "profile_path": "/3tNQRncqUFYi0cLFe44wXlxmLEw.jpg",
+              "character": "牛满仓"
+            },
+            {
+              "id": 2385115,
+              "name": "Mao Yi",
+              "profile_path": "/pty0OvjAwnfYElG44NNcEExCUOz.jpg",
+              "character": "姜卫星"
+            },
+            {
+              "id": 2966345,
+              "name": "Bin Xiahou",
+              "profile_path": "/uNL89PNtd1uV0bkcPnVyEDYJ7kg.jpg",
+              "character": "陈大山"
+            },
+            {
+              "id": 1879666,
+              "name": "Bai Lu",
+              "profile_path": "/x4qPCfXbw4L3OkJ0VMKjACNHD6.jpg",
+              "character": "胡杨"
+            },
+            {
+              "id": 2815857,
+              "name": "Yu Cheng",
+              "profile_path": "/qVbAxZydiONbtfA46Eu989AxLAW.jpg",
+              "character": "肖长胜"
+            },
+            {
+              "id": 2053771,
+              "name": "Du Yuan",
+              "profile_path": "/azWHPT9DMhJE4cQjp7ZwJrMZ4ux.jpg",
+              "character": "孟中驰"
+            },
+            {
+              "id": 2231117,
+              "name": "Shaogang Zhang",
+              "profile_path": "/i81FZgttr3OVBelXLch0BiojF11.jpg",
+              "character": "何知耕"
+            },
+            {
+              "id": 87733,
+              "name": "Paul Chun",
+              "profile_path": "/v1G2sIZzKDBcex2nFKpNk9SVBD0.jpg",
+              "character": "易老"
+            },
+            {
+              "id": 2231462,
+              "name": "Lanya Shi",
+              "profile_path": "/xGl2BTDXsPkLaiBb9MR9b8S7VqA.jpg",
+              "character": "江宜惠"
+            },
+            {
+              "id": 2512384,
+              "name": "张进",
+              "profile_path": null,
+              "character": "夏林"
+            },
+            {
+              "id": 3373518,
+              "name": "宫海滨",
+              "profile_path": null,
+              "character": "赵轰六"
+            },
+            {
+              "id": 3247035,
+              "name": "Hao Shuai",
+              "profile_path": null,
+              "character": "毛咸菜"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2021-11-18",
+        "id": 71914,
+        "title": "The Wheel of Time",
+        "overview": "Follow Moiraine, a member of the shadowy and influential all-female organization called the “Aes Sedai” as she embarks on a dangerous, world-spanning journey with five young men and women. Moiraine believes one of them might be the reincarnation of an incredibly powerful individual, whom prophecies say will either save humanity or destroy it.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/mpgDeLhl8HbhI03XLB7iKO6M6JE.jpg",
+        "vote_average": 7.9,
+        "cast": [
+            {
+              "id": 10882,
+              "name": "Rosamund Pike",
+              "profile_path": "/8ObNklHDi2hjdz0ayzJFB9jtqzm.jpg",
+              "character": "Moiraine Damodred"
+            },
+            {
+              "id": 82093,
+              "name": "Daniel Henney",
+              "profile_path": "/4cxNfiABrndn6izXAt6TsjFfYBZ.jpg",
+              "character": "al'Lan Mandragoran"
+            },
+            {
+              "id": 1720950,
+              "name": "Zoe Robins",
+              "profile_path": "/9vHQhbUZnaPxmNHtbQBN2oMTbff.jpg",
+              "character": "Nynaeve al'Meara"
+            },
+            {
+              "id": 1109111,
+              "name": "Madeleine Madden",
+              "profile_path": "/oOZ1EJeq2DHxNNLAkLEyYYOlqlM.jpg",
+              "character": "Egwene al'Vere"
+            },
+            {
+              "id": 1866384,
+              "name": "Josha Stradowski",
+              "profile_path": "/uCbfm39Gad32j2z0vOOh3oa5GEH.jpg",
+              "character": "Rand al'Thor"
+            },
+            {
+              "id": 1993042,
+              "name": "Marcus Rutherford",
+              "profile_path": "/zsaJYipeANmwidXsh52qJxjqYvs.jpg",
+              "character": "Perrin Aybara"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2022-01-05",
+        "id": 134949,
+        "title": "Rebelde",
+        "overview": "Head back to Elite Way School as a new generation of students hope to win the Battle of the Bands.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/jRlI5euugVZR6a1Ptt0nSWeiWH.jpg",
+        "vote_average": 7.5,
+        "cast": [
+            {
+              "id": 3247768,
+              "name": "Azul Guaita",
+              "profile_path": "/l6982U1oFe3rLMsYObud4RONVQu.jpg",
+              "character": "Jana Cohen"
+            },
+            {
+              "id": 1860767,
+              "name": "Sergio Mayer Mori",
+              "profile_path": "/eOWamqCDLhiupATIptGgEsws8HZ.jpg",
+              "character": "Estebán"
+            },
+            {
+              "id": 3105254,
+              "name": "Andrea Chaparro",
+              "profile_path": "/hY4gbGUKMvGTwGjf8P16GFqAcPB.jpg",
+              "character": "M.J."
+            },
+            {
+              "id": 2738776,
+              "name": "Jerónimo Cantillo",
+              "profile_path": "/g6vBdXinvvSVmOGDKYcftfu07YH.jpg",
+              "character": "Dixon"
+            },
+            {
+              "id": 1482930,
+              "name": "Franco Masini",
+              "profile_path": "/ynTaAyQBSC59rkVxdDOzu0cqg1k.jpg",
+              "character": "Luka Colucci"
+            },
+            {
+              "id": 3247772,
+              "name": "Lizeth Selene",
+              "profile_path": "/o8BNtreaGlVJkSlsYjGtFzwkXpG.jpg",
+              "character": "Andi"
+            },
+            {
+              "id": 2458843,
+              "name": "Alejandro Puente",
+              "profile_path": "/hKxZ5Sw4d5ExbYZZiL68yetsWsD.jpg",
+              "character": "Sebastián Langarica-Funtanet"
+            },
+            {
+              "id": 1717350,
+              "name": "Giovanna Grigio",
+              "profile_path": "/c2m5BwxaU1FcopTD3L7iDXjaxpQ.jpg",
+              "character": "Emilia"
+            },
+            {
+              "id": 1400977,
+              "name": "Estefanía Villarreal",
+              "profile_path": "/hyM4BeVv8WcnVFog9CntQZnMAv8.jpg",
+              "character": "Celina Ferrer"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2021-12-24",
+        "id": 96777,
+        "title": "The Silent Sea",
+        "overview": "During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/fFT0IgqtCOks4munDTxQwkvNJkd.jpg",
+        "vote_average": 8.1,
+        "cast": [
+            {
+              "id": 21688,
+              "name": "Bae Doo-na",
+              "profile_path": "/4NrnwPEeOWWfgyoxIXQybBDtJ5d.jpg",
+              "character": "Song Ji-an"
+            },
+            {
+              "id": 150903,
+              "name": "Gong Yoo",
+              "profile_path": "/ocGoFb6TrK3uWGXt4WnuibUG1vD.jpg",
+              "character": "Han Yoon-jae"
+            },
+            {
+              "id": 1257963,
+              "name": "Lee Joon",
+              "profile_path": "/bF3Zg2vzl4wUnFgcPhcS1J3Csxe.jpg",
+              "character": "Ryu Tae-seok"
+            },
+            {
+              "id": 1352930,
+              "name": "Kim Sun-young",
+              "profile_path": "/e5dA924TS68xdYGKFBvBLPGAIRY.jpg",
+              "character": "Hong Ga-young"
+            },
+            {
+              "id": 1346897,
+              "name": "Lee Moo-saeng",
+              "profile_path": "/xokzuuLDfVzassk0bmje2fvdMcM.jpg",
+              "character": "Gong Su-hyeok"
+            },
+            {
+              "id": 1918350,
+              "name": "Heo Sung-tae",
+              "profile_path": "/sTade1ipQSknV5sTD72E4n2yMnp.jpg",
+              "character": "Kim Jae-seok"
+            },
+            {
+              "id": 2256730,
+              "name": "Kang Mal-geum",
+              "profile_path": "/cSjcx2ZzjHNZMxj0b2buDi9PwTj.jpg",
+              "character": "Doctor Song Won Kyung"
+            },
+            {
+              "id": 2123796,
+              "name": "Jung Soon-won",
+              "profile_path": "/E80fMLgKBeOASTnHLEi4jSuCqo.jpg",
+              "character": "Su-chan"
+            },
+            {
+              "id": 2313835,
+              "name": "Cha Lae-hyung",
+              "profile_path": "/3koNoWCrkTzxClRfUqsDnduJgKK.jpg",
+              "character": "E1"
+            },
+            {
+              "id": 2115785,
+              "name": "Kim Si-a",
+              "profile_path": "/A5ddVN1YNInW6WxcLOwBBjeMARc.jpg",
+              "character": "Luna"
+            },
+            {
+              "id": 1682490,
+              "name": "Lee Sung-wook",
+              "profile_path": "/erpOUfjadjH2duXd6XWDsa2kNfw.jpg",
+              "character": "Kim Hee-sun"
+            },
+            {
+              "id": 2683823,
+              "name": "Yoo Hee-je",
+              "profile_path": null,
+              "character": "E2"
+            },
+            {
+              "id": 1191711,
+              "name": "Kil Hae-yeon",
+              "profile_path": "/2mfEbiYfezKfC2XJ7WXcEARct.jpg",
+              "character": "Director Choi"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2016-01-25",
+        "id": 63174,
+        "title": "Lucifer",
+        "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+        "vote_average": 8.5,
+        "cast": [
+            {
+              "id": 192944,
+              "name": "Tom Ellis",
+              "profile_path": "/zhjIyqpk5bsYgxsh5bSeS6VZtHm.jpg",
+              "character": "Lucifer Morningstar / Michael"
+            },
+            {
+              "id": 37014,
+              "name": "Lauren German",
+              "profile_path": "/wlfew4J9O6fOhizjjQtqUeT36Jb.jpg",
+              "character": "Chloe Decker"
+            },
+            {
+              "id": 116474,
+              "name": "Kevin Alejandro",
+              "profile_path": "/bh4aQqP7kJzL2Ls9tj5OmhsBlqi.jpg",
+              "character": "Dan Espinoza"
+            },
+            {
+              "id": 21356,
+              "name": "D.B. Woodside",
+              "profile_path": "/eb4NCvnZeA4yCIcIip5tYwX07Fo.jpg",
+              "character": "Amenadiel"
+            },
+            {
+              "id": 515875,
+              "name": "Lesley-Ann Brandt",
+              "profile_path": "/fW2ITcpENpNnHf4wuNltf3PSQTk.jpg",
+              "character": "Mazikeen \"Maze\""
+            },
+            {
+              "id": 56457,
+              "name": "Aimee Garcia",
+              "profile_path": "/4z3mkoa8jHpqjzfbhzYMeKe2Mf7.jpg",
+              "character": "Ella Lopez"
+            },
+            {
+              "id": 46074,
+              "name": "Rachael Harris",
+              "profile_path": "/hG2kUSUzEnHxfpEkxogHLCsLLqw.jpg",
+              "character": "Linda Martin"
+            },
+            {
+              "id": 1492326,
+              "name": "Brianna Hildebrand",
+              "profile_path": "/pldlpvPSOdapI9q7p8tT6qkZwra.jpg",
+              "character": "Rory"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2014-10-07",
+        "id": 60735,
+        "title": "The Flash",
+        "overview": "After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/lJA2RCMfsWoskqlQhXPSLFQGXEJ.jpg",
+        "vote_average": 7.8,
+        "cast": [
+            {
+              "id": 122616,
+              "name": "Grant Gustin",
+              "profile_path": "/kEGU1gGySIe63lyL7AnwXEw4rQn.jpg",
+              "character": "Barry Allen / The Flash"
+            },
+            {
+              "id": 212700,
+              "name": "Candice Patton",
+              "profile_path": "/7HUcygrInxDKrRbwCV3jpVwC75c.jpg",
+              "character": "Iris West-Allen"
+            },
+            {
+              "id": 31838,
+              "name": "Danielle Panabaker",
+              "profile_path": "/dpX6WMQjJDD93YYaC9Wd6tgucuZ.jpg",
+              "character": "Caitlin Snow / Killer Frost / Frost"
+            },
+            {
+              "id": 19392,
+              "name": "Jesse L. Martin",
+              "profile_path": "/enyC1P8DQThh1huqFQlVfdRuji1.jpg",
+              "character": "Joe West"
+            },
+            {
+              "id": 1163405,
+              "name": "Kayla Compton",
+              "profile_path": "/s5DQrvszZeLUIGdD9ryl1aMsGQv.jpg",
+              "character": "Allegra Garcia"
+            },
+            {
+              "id": 1887800,
+              "name": "Brandon McKnight",
+              "profile_path": "/inEnfkpRXSVYaOKK2kpgWrqM26i.jpg",
+              "character": "Chester P. Runk"
+            },
+            {
+              "id": 101060,
+              "name": "Danielle Nicolet",
+              "profile_path": "/jUcFFKOiwQzqos9X9cHmSbPbRn2.jpg",
+              "character": "Cecile Horton"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2005-03-27",
+        "id": 1416,
+        "title": "Grey's Anatomy",
+        "overview": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/zPIug5giU8oug6Xes5K1sTfQJxY.jpg",
+        "vote_average": 8.2,
+        "cast": [
+            {
+              "id": 9280,
+              "name": "Ellen Pompeo",
+              "profile_path": "/yPd4G2RcjXQPNWkKUPbWh5v1flC.jpg",
+              "character": "Meredith Grey"
+            },
+            {
+              "id": 25544,
+              "name": "James Pickens Jr.",
+              "profile_path": "/iddDcaysDQ6IVMUjJ97Bv3lTBCu.jpg",
+              "character": "Richard Webber"
+            },
+            {
+              "id": 171075,
+              "name": "Chandra Wilson",
+              "profile_path": "/83Ynxlv3jV4ahkOiAEfunM7Rez2.jpg",
+              "character": "Miranda Bailey"
+            },
+            {
+              "id": 81684,
+              "name": "Caterina Scorsone",
+              "profile_path": "/eLexGfeg4SyY9anPyNoh8hzKATD.jpg",
+              "character": "Amelia Shepherd"
+            },
+            {
+              "id": 9013,
+              "name": "Kevin McKidd",
+              "profile_path": "/KtmEKOSehmQ35JfGjEjpqlypbP.jpg",
+              "character": "Owen Hunt"
+            },
+            {
+              "id": 236021,
+              "name": "Camilla Luddington",
+              "profile_path": "/eKF5lSEdEtOCbsgb5mKjd8vYLck.jpg",
+              "character": "Jo Wilson"
+            },
+            {
+              "id": 1256638,
+              "name": "Kelly McCreary",
+              "profile_path": "/fP88Xb6H5SbvtQ47ZGYcmGo0gTf.jpg",
+              "character": "Maggie Pierce"
+            },
+            {
+              "id": 17836,
+              "name": "Kim Raver",
+              "profile_path": "/o9OYkG0b48125tim78ebyGeC4lO.jpg",
+              "character": "Teddy Altman"
+            },
+            {
+              "id": 87440,
+              "name": "Chris Carmack",
+              "profile_path": "/fuZw1ChY7SYCcYLr71N7RzoFgan.jpg",
+              "character": "Atticus Lincoln"
+            },
+            {
+              "id": 1450286,
+              "name": "Jake Borelli",
+              "profile_path": "/szKuXklJNgRedQR3zMSmiTgCP96.jpg",
+              "character": "Levi Schmitt"
+            },
+            {
+              "id": 1583975,
+              "name": "Anthony Hill",
+              "profile_path": "/dUaUfI29UIsq0jqCEdNlTsvAFjC.jpg",
+              "character": "Winston Ndugu"
+            },
+            {
+              "id": 100,
+              "name": "Scott Speedman",
+              "profile_path": "/d0fzWMIzsMAXS2M04SKFMof6zQX.jpg",
+              "character": "Nick Marsh"
+            },
+            {
+              "id": 1428991,
+              "name": "Richard Flood",
+              "profile_path": "/nB8vxU49ROJcs7eRmOV6oOIZMeY.jpg",
+              "character": "Cormac Hayes"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2021-11-24",
+        "id": 88329,
+        "title": "Hawkeye",
+        "overview": "Former Avenger Clint Barton has a seemingly simple mission: get back to his family for Christmas. Possible? Maybe with the help of Kate Bishop, a 22-year-old archer with dreams of becoming a superhero. The two are forced to work together when a presence from Barton’s past threatens to derail far more than the festive spirit.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/pqzjCxPVc9TkVgGRWeAoMmyqkZV.jpg",
+        "vote_average": 8.4,
+        "cast": [
+            {
+              "id": 17604,
+              "name": "Jeremy Renner",
+              "profile_path": "/pGE3KiHxx7iRCs4yKP9wSFsVCyh.jpg",
+              "character": "Clint Barton / Hawkeye"
+            },
+            {
+              "id": 130640,
+              "name": "Hailee Steinfeld",
+              "profile_path": "/q4UpZMEuvNCN5lL5L6xa3ICpheJ.jpg",
+              "character": "Kate Bishop"
+            },
+            {
+              "id": 76855,
+              "name": "Tony Dalton",
+              "profile_path": "/k7iCyv4BjiFZS7RaLJFoeKzOJ7f.jpg",
+              "character": "Jack Duquesne"
+            },
+            {
+              "id": 2880523,
+              "name": "Alaqua Cox",
+              "profile_path": "/a6HmtXC8qG9t29ZgaVOW2Aq3z1k.jpg",
+              "character": "Maya Lopez"
+            },
+            {
+              "id": 1278528,
+              "name": "Fra Fee",
+              "profile_path": "/fPZr9YeGxVQRbBZWd8Cdxf8VIa9.jpg",
+              "character": "Kazimierz 'Kazi' Kazimierczak"
+            },
+            {
+              "id": 107810,
+              "name": "Aleks Paunovic",
+              "profile_path": "/k8j9Nr0xS2vEUMV8Wl0y5cC2NeB.jpg",
+              "character": "Ivan"
+            },
+            {
+              "id": 118762,
+              "name": "Piotr Adamczyk",
+              "profile_path": "/9s0Nl3aukGah47HbnaPTjmzxg9f.jpg",
+              "character": "Tomas"
+            },
+            {
+              "id": 21657,
+              "name": "Vera Farmiga",
+              "profile_path": "/5Vs7huBmTKftwlsc2BPAntyaQYj.jpg",
+              "character": "Eleanor Bishop"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2021-10-12",
+        "id": 90462,
+        "title": "Chucky",
+        "overview": "After a vintage Chucky doll turns up at a suburban yard sale, an idyllic American town is thrown into chaos as a series of horrifying murders begin to expose the town’s hypocrisies and secrets. Meanwhile, the arrival of enemies — and allies — from Chucky’s past threatens to expose the truth behind the killings, as well as the demon doll’s untold origins.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg",
+        "vote_average": 7.9,
+        "cast": [
+            {
+              "id": 1370,
+              "name": "Brad Dourif",
+              "profile_path": "/z2LYR7Ickql7g5hnWJSIAWMPD4o.jpg",
+              "character": "Chucky (voice)"
+            },
+            {
+              "id": 1379122,
+              "name": "Zackary Arthur",
+              "profile_path": "/bHNxWDhEsxvEHWhh8oA9ArIo3AI.jpg",
+              "character": "Jake Wheeler"
+            },
+            {
+              "id": 1547148,
+              "name": "Teo Briones",
+              "profile_path": "/1eDVJ9pzBQ5hWQv0pfRjWq2h7go.jpg",
+              "character": "Junior Wheeler"
+            },
+            {
+              "id": 1274510,
+              "name": "Alyvia Alyn Lind",
+              "profile_path": "/gg7ZRQQic55Kh7vGQRFz7dwbBSr.jpg",
+              "character": "Lexy Cross"
+            },
+            {
+              "id": 3028929,
+              "name": "Bjorgvin Arnarson",
+              "profile_path": "/sMEdiovTsgk0E6KDirZrnQlHN2E.jpg",
+              "character": "Devon Evans"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2013-09-12",
+        "id": 60574,
+        "title": "Peaky Blinders",
+        "overview": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/pE8CScObQURsFZ723PSW1K9EGYp.jpg",
+        "vote_average": 8.6,
+        "cast": [
+            {
+              "id": 2037,
+              "name": "Cillian Murphy",
+              "profile_path": "/i8dOTC0w6V274ev5iAAvo4Ahhpr.jpg",
+              "character": "Tommy Shelby"
+            },
+            {
+              "id": 220448,
+              "name": "Paul Anderson",
+              "profile_path": "/nds5rTBZvJ4rEsP4N6OaoEgQDkW.jpg",
+              "character": "Arthur Shelby"
+            },
+            {
+              "id": 237455,
+              "name": "Sam Claflin",
+              "profile_path": "/5DtmRlRZc7wPbat1INQPqsxaH4a.jpg",
+              "character": "Oswald Mosley"
+            },
+            {
+              "id": 1508313,
+              "name": "Finn Cole",
+              "profile_path": "/m30VDdr4ZGtTEHFAYvgeTW4s9EJ.jpg",
+              "character": "Michael Gray"
+            },
+            {
+              "id": 1397778,
+              "name": "Anya Taylor-Joy",
+              "profile_path": "/lRzSZ0kQv8TvWm64O6S1iDGGyPk.jpg",
+              "character": "Gina Gray"
+            },
+            {
+              "id": 15737,
+              "name": "Helen McCrory",
+              "profile_path": "/dVtwKuGce3BhUcqfdpxFvpCT8YT.jpg",
+              "character": "Polly Gray"
+            },
+            {
+              "id": 1088620,
+              "name": "Sophie Rundle",
+              "profile_path": "/9HxJ6pG1Q0BBbIV1UXk5iU9zDM9.jpg",
+              "character": "Ada Shelby"
+            },
+            {
+              "id": 1392625,
+              "name": "Kate Phillips",
+              "profile_path": "/lXm5bJ8rle6J9B2xCRYXCXoxp2d.jpg",
+              "character": "Linda Shelby"
+            },
+            {
+              "id": 1839855,
+              "name": "Harry Kirton",
+              "profile_path": "/ynwvQqPXU3hUWWbfdaplzw9FMXD.jpg",
+              "character": "Finn Shelby"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2021-09-17",
+        "id": 93405,
+        "title": "Squid Game",
+        "overview": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games—with high stakes. But, a tempting prize awaits the victor.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg",
+        "vote_average": 7.8,
+        "cast": [
+            {
+              "id": 73249,
+              "name": "Lee Jung-jae",
+              "profile_path": "/3h5Cfm0X8ohWn7psZkqdNWqXAHH.jpg",
+              "character": "Seong Gi-hun / \"No. 456\""
+            },
+            {
+              "id": 1593672,
+              "name": "Park Hae-soo",
+              "profile_path": "/hfejrQ8gjRWCheiKpJANajXT0xi.jpg",
+              "character": "Cho Sang-woo / \"No. 218\""
+            },
+            {
+              "id": 3194501,
+              "name": "Jung Ho-yeon",
+              "profile_path": "/qPjweqtBeZp6S4dMDkXFsQw0eEH.jpg",
+              "character": "Kang Sae-byeok / \"No. 067\""
+            },
+            {
+              "id": 1557181,
+              "name": "Wi Ha-joon",
+              "profile_path": "/8QxfBE2tWYuFeGknZxEGhEQXspe.jpg",
+              "character": "Hwang Jun-ho"
+            },
+            {
+              "id": 1048070,
+              "name": "Oh Yeong-su",
+              "profile_path": "/kUzd955UTVnac2sVG0tYmt9w5jb.jpg",
+              "character": "Oh Il-nam / \"No. 001\""
+            },
+            {
+              "id": 1918350,
+              "name": "Heo Sung-tae",
+              "profile_path": "/sTade1ipQSknV5sTD72E4n2yMnp.jpg",
+              "character": "Jang Deok-su / \"No. 101\""
+            },
+            {
+              "id": 587677,
+              "name": "Kim Joo-ryoung",
+              "profile_path": "/fzAQghaykG5841cvSMogl1Xaafw.jpg",
+              "character": "Han Mi-nyeo / \"No. 212\""
+            },
+            {
+              "id": 2965849,
+              "name": "Anupam Tripathi",
+              "profile_path": "/qiypxSxV93cIv7F4O2MeOpXNlsJ.jpg",
+              "character": "Ali Abdul / \"No. 199\""
+            },
+            {
+              "id": 1985557,
+              "name": "Lee Yoo-mi",
+              "profile_path": "/jZgjJqr6pGEegyziY10b4SklqbD.jpg",
+              "character": "Ji-young / \"No. 240\""
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2021-12-09",
+        "id": 116450,
+        "title": "And Just Like That…",
+        "overview": "This new chapter of “Sex and the City” follows Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/ahFca8RIGGY0kWieDwHzybi0sT1.jpg",
+        "vote_average": 8,
+        "cast": [
+            {
+              "id": 520,
+              "name": "Sarah Jessica Parker",
+              "profile_path": "/bKatYGFy4wsuarnmti12OpAohsL.jpg",
+              "character": "Carrie Bradshaw"
+            },
+            {
+              "id": 38024,
+              "name": "Cynthia Nixon",
+              "profile_path": "/eslSngKke8u8aPKPXjYDW0rnBgx.jpg",
+              "character": "Miranda Hobbes"
+            },
+            {
+              "id": 38025,
+              "name": "Kristin Davis",
+              "profile_path": "/ykLp5sQ0BLakYsDlLZ4SoHzB8CG.jpg",
+              "character": "Charlotte York"
+            },
+            {
+              "id": 57551,
+              "name": "Mario Cantone",
+              "profile_path": "/ZcWKRPvoOgPSn24M5eQD90FTST.jpg",
+              "character": "Anthony Marentino"
+            },
+            {
+              "id": 27552,
+              "name": "David Eigenberg",
+              "profile_path": "/3JOY715n7Low0Y1a9YZAzhNjvZM.jpg",
+              "character": "Steve Brady"
+            },
+            {
+              "id": 1542,
+              "name": "Willie Garson",
+              "profile_path": "/kTNR7cyq3ymByKdNxP3kwnHLSjJ.jpg",
+              "character": "Stanford Blatch"
+            },
+            {
+              "id": 3212,
+              "name": "Evan Handler",
+              "profile_path": "/yU0OXeZ0K1ppe1o9SpHiAMHy1rc.jpg",
+              "character": "Harry Goldenblatt"
+            },
+            {
+              "id": 125055,
+              "name": "Sara Ramirez",
+              "profile_path": "/5hi4tZfMQe5Cw236c7eIFYi0D1F.jpg",
+              "character": "Che Diaz"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2017-09-25",
+        "id": 71712,
+        "title": "The Good Doctor",
+        "overview": "Shaun Murphy, a young surgeon with autism and savant syndrome, relocates from a quiet country life to join a prestigious hospital's surgical unit. Unable to personally connect with those around him, Shaun uses his extraordinary medical gifts to save lives and challenge the skepticism of his colleagues.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cXUqtadGsIcZDWUTrfnbDjAy8eN.jpg",
+        "vote_average": 8.6,
+        "cast":[
+            {
+              "id": 1281,
+              "name": "Freddie Highmore",
+              "profile_path": "/4haqYYQJFhFe9Poqb26Xpuj1VJk.jpg",
+              "character": "Shaun Murphy"
+            },
+            {
+              "id": 31028,
+              "name": "Richard Schiff",
+              "profile_path": "/cHYHhPvyznOJrw0yEqndhYK2GnQ.jpg",
+              "character": "Aaron Glassman"
+            },
+            {
+              "id": 57686,
+              "name": "Hill Harper",
+              "profile_path": "/oMZERnJy9lB93JnG4EcI81c2jbL.jpg",
+              "character": "Marcus Andrews"
+            },
+            {
+              "id": 1215689,
+              "name": "Christina Chang",
+              "profile_path": "/p1m4Da7ZOt6BOcXy4T58Mu3jAY3.jpg",
+              "character": "Audrey Lim"
+            },
+            {
+              "id": 1454610,
+              "name": "Paige Spara",
+              "profile_path": "/m5VhTzzVpZdLMGdAUTfo6ZWowfN.jpg",
+              "character": "Lea Dilallo"
+            },
+            {
+              "id": 1233749,
+              "name": "Fiona Gubelmann",
+              "profile_path": "/c80VyX8RyupJXb7EqTxHNHtN4Cn.jpg",
+              "character": "Morgan Reznick"
+            },
+            {
+              "id": 10884,
+              "name": "Will Yun Lee",
+              "profile_path": "/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg",
+              "character": "Alex Park"
+            },
+            {
+              "id": 2601751,
+              "name": "Bria Samoné Henderson",
+              "profile_path": "/b2Zi6Hb6SLLunl3Ndr9OLz8bTld.jpg",
+              "character": "Jordan Allen"
+            },
+            {
+              "id": 1472747,
+              "name": "Noah Galvin",
+              "profile_path": "/nS2ecM1f5nCg77AsJRn7sklbjXz.jpg",
+              "character": "Asher Wolke"
+            },
+            {
+              "id": 937314,
+              "name": "Osvaldo Benavides",
+              "profile_path": "/1zFsmqZE4cSF1MHUKtJvRHCuNOy.jpg",
+              "character": "Mateo Rendón"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2021-11-14",
+        "id": 84553,
+        "title": "Blade Runner: Black Lotus",
+        "overview": "Los Angeles 2032. A young woman wakes up with no memories, and possessing deadly skills. The only clues to her mystery are a locked data device and a tattoo of a black lotus. Putting together the pieces, she must hunt down the people responsible for her brutal and bloody past to find the truth of her lost identity.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/zHQJkDZ4OjqJnp4vtphxOQ7GIh6.jpg",
+        "vote_average": 7.5,
+        "cast": [
+            {
+              "id": 1202689,
+              "name": "Jessica Henwick",
+              "profile_path": "/hRrEqDIWlov1FvYRmBN2vLaAxyl.jpg",
+              "character": "Elle (voice)"
+            },
+            {
+              "id": 10884,
+              "name": "Will Yun Lee",
+              "profile_path": "/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg",
+              "character": "Joseph (voice)"
+            },
+            {
+              "id": 1248,
+              "name": "Brian Cox",
+              "profile_path": "/yvoAgJTOvuNSPSKegcIcD62ySY9.jpg",
+              "character": "Niander Wallace Sr. (voice)"
+            },
+            {
+              "id": 8210,
+              "name": "Wes Bentley",
+              "profile_path": "/qwFi0SsOqm7feN4ps7cAiQDTNHL.jpg",
+              "character": "Niander Wallace Jr. (voice)"
+            },
+            {
+              "id": 1261694,
+              "name": "Barkhad Abdi",
+              "profile_path": "/utfeg8GnGyW3aVNcRfhII9RCXB6.jpg",
+              "character": "Doc Badger (voice)"
+            },
+            {
+              "id": 1034197,
+              "name": "Samira Wiley",
+              "profile_path": "/m45A0hYcpnGckwxqs7j0I6Sp2Dj.jpg",
+              "character": "Officer Alani Davis (voice)"
+            },
+            {
+              "id": 2518,
+              "name": "Gregg Henry",
+              "profile_path": "/j17nuAFulrbYP34g4Qw8SZRDNUo.jpg",
+              "character": "Senator Bannister (voice)"
+            },
+            {
+              "id": 17401,
+              "name": "Stephen Root",
+              "profile_path": "/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg",
+              "character": "Police Chief Earl Grant (voice)"
+            },
+            {
+              "id": 229031,
+              "name": "Peyton List",
+              "profile_path": "/b1rEqHlkyHwRtockTE7WQNLyu9t.jpg",
+              "character": "Josephine Grant (voice)"
+            },
+            {
+              "id": 216973,
+              "name": "Jason Spisak",
+              "profile_path": "/yxIWLB5Yf2fIB2WyHd6WYB0MbHD.jpg",
+              "character": "Hooper (voice)"
+            },
+            {
+              "id": 19536,
+              "name": "Josh Duhamel",
+              "profile_path": "/5Rp9aeWdN2S623KCjwfii9MhDK1.jpg",
+              "character": "Marlowe (voice)"
+            },
+            {
+              "id": 15319,
+              "name": "Henry Czerny",
+              "profile_path": "/zOWZzRmliKf9032IOOq0a3jXhVv.jpg",
+              "character": "Doctor M. (voice)"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2004-10-04",
+        "id": 12637,
+        "title": "Rebelde",
+        "overview": "The series is set at the Elite Way School, a prestigious private boarding high school in Mexico City with a major plot line revolving around a group of students forming a pop band. Additional subplots involve the school's faculty and the students' parents. One trademark of the show is the random use of English words and phrases, often used by fresa characters.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/p5VjPouEYqRhHsWidIqd65q04Qt.jpg",
+        "vote_average": 8.5,
+        "cast": [
+            {
+              "id": 970753,
+              "name": "Maite Perroni",
+              "profile_path": "/yPRXRP0z24Cb3DMFPwfZJubesmz.jpg",
+              "character": "Guadalupe \"Lupita\" Fernandez"
+            },
+            {
+              "id": 1234164,
+              "name": "Anahí",
+              "profile_path": "/1YfJlpMsq1aeavZGm0FQYCWVnTZ.jpg",
+              "character": "Mia Colucci"
+            },
+            {
+              "id": 1234166,
+              "name": "Dulce María",
+              "profile_path": "/ehpAyM03ssd1dzBfy2aVmsKm0yk.jpg",
+              "character": "Roberta Pardo Rey"
+            },
+            {
+              "id": 1234169,
+              "name": "Christopher Von Uckermann",
+              "profile_path": "/7VSPcejVdZc18DGhgBkyostCzOm.jpg",
+              "character": "Diego Bustamante"
+            },
+            {
+              "id": 220496,
+              "name": "Alfonso Herrera",
+              "profile_path": "/cUsGl0VtMJYsn1S9K1ozwsNAP17.jpg",
+              "character": "Miguel Arango"
+            },
+            {
+              "id": 1234163,
+              "name": "Christian Chávez",
+              "profile_path": "/i0uN7fkb3AgxxV5KfMelLBmhoDg.jpg",
+              "character": "Juan \"Giovanni\" Méndez López"
+            },
+            {
+              "id": 935201,
+              "name": "Diego Boneta",
+              "profile_path": "/hgEcC28oljaPBYi7ONMToQYMHMA.jpg",
+              "character": "Rocco Bezauri"
+            },
+            {
+              "id": 946529,
+              "name": "Ninel Conde",
+              "profile_path": "/xFmAWkDyMYazCSzeUXS7m5gIEvO.jpg",
+              "character": "Alma Rey"
+            },
+            {
+              "id": 1222997,
+              "name": "Grettell Valdéz",
+              "profile_path": "/h5l19fRr0hiwxRUIPXQDoV9jXx8.jpg",
+              "character": "Renata Lizaldi"
+            },
+            {
+              "id": 55125,
+              "name": "Juan Ferrara",
+              "profile_path": null,
+              "character": "Franco Colucci"
+            },
+            {
+              "id": 1400977,
+              "name": "Estefanía Villarreal",
+              "profile_path": "/hyM4BeVv8WcnVFog9CntQZnMAv8.jpg",
+              "character": "Celina Ferrer"
+            },
+            {
+              "id": 1244197,
+              "name": "Angelique Boyer",
+              "profile_path": "/1jFWvoO4NHzPD7m4S5bD6h7xO0f.jpg",
+              "character": "Victoria 'Vico' Paz"
+            },
+            {
+              "id": 1715391,
+              "name": "Lourdes Canale",
+              "profile_path": null,
+              "character": "Hilda Bernard"
+            },
+            {
+              "id": 942579,
+              "name": "María Fernanda García",
+              "profile_path": null,
+              "character": "Alicia Salazar"
+            },
+            {
+              "id": 1856845,
+              "name": "Felipe Nájera",
+              "profile_path": null,
+              "character": "Pascual Gandía"
+            },
+            {
+              "id": 1858607,
+              "name": "Eddy Vilard",
+              "profile_path": null,
+              "character": "Teófilo 'Téo' Ruiz Palacios"
+            },
+            {
+              "id": 1222996,
+              "name": "Zoraida Gómez",
+              "profile_path": "/z7Pyfq3vdUAzrGpANQVDOWnlGIx.jpg",
+              "character": "Jóse Luján Landeros"
+            },
+            {
+              "id": 1873288,
+              "name": "Karla Cossío",
+              "profile_path": null,
+              "character": "Pilar Gandía Rosalez"
+            },
+            {
+              "id": 1873423,
+              "name": "Grisel Margarita",
+              "profile_path": "/fcRzAFgVPAPCsDMiHOU5arfQqXZ.jpg",
+              "character": "Anita"
+            },
+            {
+              "id": 1873443,
+              "name": "Marco Antonio Valdés",
+              "profile_path": null,
+              "character": "Dante"
+            },
+            {
+              "id": 1873510,
+              "name": "Lourdes Reyes",
+              "profile_path": "/9FqqfiB2KSCDXQO6XAeFsajffgX.jpg",
+              "character": "Julia Lozano"
+            },
+            {
+              "id": 1873525,
+              "name": "Georgina Salgado",
+              "profile_path": "/svVwi2J9ab3xcSqrIB0HR2wKpRG.jpg",
+              "character": "Agustina Lauman Medeiros"
+            },
+            {
+              "id": 1873528,
+              "name": "Monique Vargas",
+              "profile_path": null,
+              "character": "Paloma Torres"
+            },
+            {
+              "id": 1873533,
+              "name": "Ronald Duarte",
+              "profile_path": null,
+              "character": "Jack"
+            },
+            {
+              "id": 1873537,
+              "name": "Fernanda Polín",
+              "profile_path": null,
+              "character": "Raquel Byron Sender / Karen"
+            },
+            {
+              "id": 1873539,
+              "name": "Manola Díez",
+              "profile_path": "/5uKjetV6cXSs4jAI6ZkLeZ67THh.jpg",
+              "character": "Pepa"
+            },
+            {
+              "id": 1873540,
+              "name": "Nicolas Krinis",
+              "profile_path": null,
+              "character": "Jacobo"
+            },
+            {
+              "id": 1873545,
+              "name": "Alberto Nuñez",
+              "profile_path": null,
+              "character": "Gonzalo Miranda"
+            },
+            {
+              "id": 3003412,
+              "name": "Jorge Ponce",
+              "profile_path": null,
+              "character": "Jorge Luckirin"
+            },
+            {
+              "id": 220497,
+              "name": "Enrique Rocha",
+              "profile_path": null,
+              "character": "León Bustamante"
+            },
+            {
+              "id": 1255119,
+              "name": "Jack Duarte",
+              "profile_path": null,
+              "character": "Tomás Goycoléa Kantun"
+            },
+            {
+              "id": 1303049,
+              "name": "Lisardo Guarinos",
+              "profile_path": "/uDKGe0ubnJ5VscGPUOiyoPaxxVU.jpg",
+              "character": "Martin/Otávio Reverte"
+            },
+            {
+              "id": 1330283,
+              "name": "Viviana Ramos",
+              "profile_path": null,
+              "character": "Dolores 'Lola' Arregui"
+            },
+            {
+              "id": 1240425,
+              "name": "Allisson Lozz",
+              "profile_path": null,
+              "character": "Bianca Delight"
+            },
+            {
+              "id": 940420,
+              "name": "Leticia Perdigón",
+              "profile_path": "/1MxizZUGOdQiYl5aA8rb8ukTNyg.jpg",
+              "character": "Mayra Fernández"
+            },
+            {
+              "id": 1238952,
+              "name": "Nailea Norvind",
+              "profile_path": "/no9Fq0bpz850ApTVIwQ4DIf8pzL.jpg",
+              "character": "Marina Carceres Colucci"
+            },
+            {
+              "id": 1245799,
+              "name": "Derrick James",
+              "profile_path": null,
+              "character": "Santos Echagüe Robles"
+            },
+            {
+              "id": 76855,
+              "name": "Tony Dalton",
+              "profile_path": "/k7iCyv4BjiFZS7RaLJFoeKzOJ7f.jpg",
+              "character": "Gastón Diestro"
+            },
+            {
+              "id": 1245795,
+              "name": "Eugenio Siller",
+              "profile_path": "/3Whi7GaRLJnvEoRrxdsmobTDoZZ.jpg",
+              "character": "Luciano"
+            },
+            {
+              "id": 1725470,
+              "name": "Antonio Sáinz",
+              "profile_path": null,
+              "character": "Isaac 'Iñaki' Urcola"
+            },
+            {
+              "id": 1250650,
+              "name": "Mike Biaggio",
+              "profile_path": null,
+              "character": "Javier Alanis"
+            },
+            {
+              "id": 974732,
+              "name": "Tiaré Scanda",
+              "profile_path": "/zjc22O77Rw4wu0TnsaarYvVuR55.jpg",
+              "character": "Galia Dunoff de Gandía"
+            },
+            {
+              "id": 932410,
+              "name": "Ernesto Díaz",
+              "profile_path": null,
+              "character": "Mauricio"
+            },
+            {
+              "id": 1094404,
+              "name": "Pedro Weber 'Chatanuga'",
+              "profile_path": "/tVGfmDenZyrrh6Fbb6K8CR0r5R0.jpg",
+              "character": "Pedro 'Peter'"
+            },
+            {
+              "id": 1302539,
+              "name": "Michelle Renaud",
+              "profile_path": null,
+              "character": "Michelle Pineda"
+            },
+            {
+              "id": 1248471,
+              "name": "Rocío Cárdenas",
+              "profile_path": "/1YZdMLZDC0rStLvZWXBlIbYui0H.jpg",
+              "character": "Fátima Diaz"
+            },
+            {
+              "id": 1453460,
+              "name": "Jean Safont",
+              "profile_path": null,
+              "character": "Ricardo Mendiola"
+            },
+            {
+              "id": 1250862,
+              "name": "Francisco Avendaño",
+              "profile_path": null,
+              "character": "Gustavo Ruiz-Palacios"
+            },
+            {
+              "id": 976176,
+              "name": "Alejandra Peniche",
+              "profile_path": null,
+              "character": "Damiana Ferreira Mitre"
+            },
+            {
+              "id": 1058191,
+              "name": "María Fernanda Malo",
+              "profile_path": "/sInRWty3dLoST9wJOMr16jgqE1O.jpg",
+              "character": "Sol De La Riva"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2010-10-31",
+        "id": 1402,
+        "title": "The Walking Dead",
+        "overview": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/w21lgYIi9GeUH5dO8l3B9ARZbCB.jpg",
+        "vote_average": 8.1,
+        "cast": [
+            {
+              "id": 4886,
+              "name": "Norman Reedus",
+              "profile_path": "/ozHPdO5jAt7ozzdZUgyRAMNPSDW.jpg",
+              "character": "Daryl Dixon"
+            },
+            {
+              "id": 31535,
+              "name": "Melissa McBride",
+              "profile_path": "/a1yjfKwaLbSpgzOfDdnNk2nxaQx.jpg",
+              "character": "Carol Peletier"
+            },
+            {
+              "id": 62220,
+              "name": "Lauren Cohan",
+              "profile_path": "/zJ9nZ5jqQTUD55GLKbgfiKlUoBN.jpg",
+              "character": "Maggie Greene"
+            },
+            {
+              "id": 84224,
+              "name": "Christian Serratos",
+              "profile_path": "/3odIVQPRdJ0aNuecrtciodBi0rL.jpg",
+              "character": "Rosita Espinosa"
+            },
+            {
+              "id": 1252310,
+              "name": "Josh McDermitt",
+              "profile_path": "/ueZwswzCiJ0KgLNCKnrBNQvl0aE.jpg",
+              "character": "Eugene Porter"
+            },
+            {
+              "id": 41688,
+              "name": "Seth Gilliam",
+              "profile_path": "/uX4k1H9sRx3VDewQRuQO0oQrWEW.jpg",
+              "character": "Gabriel Stokes"
+            },
+            {
+              "id": 555249,
+              "name": "Ross Marquand",
+              "profile_path": "/jIGiAslF6KWcdHMV2sf4bETv72C.jpg",
+              "character": "Aaron"
+            },
+            {
+              "id": 65640,
+              "name": "Khary Payton",
+              "profile_path": "/4WKDDalnICxaIsW9S37koUDIdwr.jpg",
+              "character": "Ezekiel"
+            },
+            {
+              "id": 111698,
+              "name": "Cooper Andrews",
+              "profile_path": "/uyvhcj3hrhCWqXmS4VSM36LhISt.jpg",
+              "character": "Jerry"
+            },
+            {
+              "id": 236851,
+              "name": "Callan McAuliffe",
+              "profile_path": "/n3DaJlAj4bzIAiokLxYaVhJEnAl.jpg",
+              "character": "Alden"
+            },
+            {
+              "id": 47296,
+              "name": "Jeffrey Dean Morgan",
+              "profile_path": "/m8bdrmh6ExDCGQ64E83mHg002YV.jpg",
+              "character": "Negan"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2011-06-23",
+        "id": 37680,
+        "title": "Suits",
+        "overview": "While running from a drug deal gone bad, Mike Ross, a brilliant young college-dropout, slips into a job interview with one of New York City's best legal closers, Harvey Specter. Tired of cookie-cutter law school grads, Harvey takes a gamble by hiring Mike on the spot after he recognizes his raw talent and photographic memory.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/vQiryp6LioFxQThywxbC6TuoDjy.jpg",
+        "vote_average": 8.1,
+        "cast": [
+            {
+              "id": 16856,
+              "name": "Gabriel Macht",
+              "profile_path": "/mc0zlgOviaVnfrIQ0igHDg4sHH0.jpg",
+              "character": "Harvey Specter"
+            },
+            {
+              "id": 154856,
+              "name": "Sarah Rafferty",
+              "profile_path": "/d2oJRayMQPd8r97usqdoLZo0QC5.jpg",
+              "character": "Donna Paulsen"
+            },
+            {
+              "id": 65871,
+              "name": "Amanda Schull",
+              "profile_path": "/uXcKWYCGoDJilx3fCYBkUBSuQ2k.jpg",
+              "character": "Katrina Bennett"
+            },
+            {
+              "id": 1216133,
+              "name": "Rick Hoffman",
+              "profile_path": "/yRjH4z0lKgvjxZ07P7bvRpZy95q.jpg",
+              "character": "Louis Litt"
+            },
+            {
+              "id": 122756,
+              "name": "Dulé Hill",
+              "profile_path": "/fPJ8lIx6WwBgO2AhnHQSeiZiAUy.jpg",
+              "character": "Alex Williams"
+            },
+            {
+              "id": 25541,
+              "name": "Katherine Heigl",
+              "profile_path": "/hzcs8zxBd0zFo4CqiaOkuVXkFD0.jpg",
+              "character": "Samantha Wheeler"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2018-06-20",
+        "id": 73586,
+        "title": "Yellowstone",
+        "overview": "Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/iqWCUwLcjkVgtpsDLs8xx8kscg6.jpg",
+        "vote_average": 8,
+        "cast": [
+            {
+              "id": 1269,
+              "name": "Kevin Costner",
+              "profile_path": "/bykmxJHLfbFM3NT05RZXhx8YTzF.jpg",
+              "character": "John Dutton"
+            },
+            {
+              "id": 17521,
+              "name": "Kelly Reilly",
+              "profile_path": "/l8aQsryOQvxgX6SdZ4XtzU8KEXn.jpg",
+              "character": "Beth Dutton"
+            },
+            {
+              "id": 56680,
+              "name": "Luke Grimes",
+              "profile_path": "/52KsHFCu0LToakebnxqC4VeRixl.jpg",
+              "character": "Kayce Dutton"
+            },
+            {
+              "id": 8210,
+              "name": "Wes Bentley",
+              "profile_path": "/qwFi0SsOqm7feN4ps7cAiQDTNHL.jpg",
+              "character": "Jamie Dutton"
+            },
+            {
+              "id": 205976,
+              "name": "Kelsey Asbille",
+              "profile_path": "/8mXqxKaPc6FpAnLeZlPaaUaJHdC.jpg",
+              "character": "Monica Dutton"
+            },
+            {
+              "id": 2038314,
+              "name": "Brecken Merrill",
+              "profile_path": "/1lhgCdQzAfypTY9wXPvXCahTpt3.jpg",
+              "character": "Tate Dutton"
+            },
+            {
+              "id": 6614,
+              "name": "Cole Hauser",
+              "profile_path": "/kJyUtNZREd7mes21OrWiCtOugPL.jpg",
+              "character": "Rip Wheeler"
+            },
+            {
+              "id": 84225,
+              "name": "Gil Birmingham",
+              "profile_path": "/bWYOwtq0zUgpbEhTyiJHo2TmVju.jpg",
+              "character": "Thomas Rainwater"
+            },
+            {
+              "id": 1385813,
+              "name": "Jefferson White",
+              "profile_path": "/8QSrhrWpqTBGJN3rfijXCvmOcb5.jpg",
+              "character": "Jimmy Hurdstrom"
+            },
+            {
+              "id": 1674161,
+              "name": "Ryan Bingham",
+              "profile_path": "/mnTDK0M2ncJgTUm0T56AD4OxB83.jpg",
+              "character": "Walker"
+            },
+            {
+              "id": 2073671,
+              "name": "Denim Richards",
+              "profile_path": "/A2Gl1Xi0wuC7xd9AYe41SldIUmA.jpg",
+              "character": "Colby"
+            },
+            {
+              "id": 31362,
+              "name": "Ian Bohen",
+              "profile_path": "/qEi3UXB3rx9vithYZPtqW3U5e3L.jpg",
+              "character": "Ryan"
+            },
+            {
+              "id": 1333809,
+              "name": "Forrie J. Smith",
+              "profile_path": "/A3JvvFVzfF5M7Pvi2csISkoqxDC.jpg",
+              "character": "Lloyd"
+            },
+            {
+              "id": 1980651,
+              "name": "Finn Little",
+              "profile_path": "/zWqSCCRvC2Bsb1T5t8JWqakVKmx.jpg",
+              "character": "Carter"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2017-01-26",
+        "id": 69050,
+        "title": "Riverdale",
+        "overview": "Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/xBaeUYKNJfX8VhIFvvgPpFSYxBZ.jpg",
+        "vote_average": 8.6,
+        "cast": [
+            {
+              "id": 1680339,
+              "name": "K.J. Apa",
+              "profile_path": "/idpwm8ZdFnndjeQ3mKleF20hvRo.jpg",
+              "character": "Archie Andrews"
+            },
+            {
+              "id": 1136940,
+              "name": "Lili Reinhart",
+              "profile_path": "/snsJrpxQq019fj3P7FUJJA0izdM.jpg",
+              "character": "Betty Cooper"
+            },
+            {
+              "id": 1721740,
+              "name": "Camila Mendes",
+              "profile_path": "/a9RYVaY64cGmQoQJC8AcedYwUNR.jpg",
+              "character": "Veronica Lodge"
+            },
+            {
+              "id": 56730,
+              "name": "Cole Sprouse",
+              "profile_path": "/qqarRg2oRYpK2KnHeLqe716nEVE.jpg",
+              "character": "Jughead Jones"
+            },
+            {
+              "id": 1592855,
+              "name": "Madelaine Petsch",
+              "profile_path": "/iEF2H3AJCK9YTQGSWsf0CgvcHLU.jpg",
+              "character": "Cheryl Blossom"
+            },
+            {
+              "id": 1724690,
+              "name": "Casey Cott",
+              "profile_path": "/bMWn0qPfgYjl7zJoMI7asvychRw.jpg",
+              "character": "Kevin Keller"
+            },
+            {
+              "id": 1907002,
+              "name": "Charles Melton",
+              "profile_path": "/wTVbROEoe3zN7oz8EcXBIHUesn.jpg",
+              "character": "Reggie Mantle"
+            },
+            {
+              "id": 142113,
+              "name": "Vanessa Morgan",
+              "profile_path": "/1hcow9vyGUtv1P6EpI7xbDIzOAs.jpg",
+              "character": "Toni Topaz"
+            },
+            {
+              "id": 1274517,
+              "name": "Erinn Westbrook",
+              "profile_path": "/clhH2nyS8uTrgwx9RkAJ46FpJjJ.jpg",
+              "character": "Tabitha Tate"
+            },
+            {
+              "id": 6714,
+              "name": "Mädchen Amick",
+              "profile_path": "/Af47IaCUF9BYzmGBycZiKjqIwYf.jpg",
+              "character": "Alice Cooper"
+            },
+            {
+              "id": 1475818,
+              "name": "Drew Tanner",
+              "profile_path": "/hEDc4uUmrx0pE93bwYoUWE6jvSB.jpg",
+              "character": "Fangs Fogarty"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2011-04-17",
+        "id": 1399,
+        "title": "Game of Thrones",
+        "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+        "vote_average": 8.4,
+        "cast": [
+            {
+              "id": 239019,
+              "name": "Kit Harington",
+              "profile_path": "/noInYh5IKASiecR5lHJSjXIDmkm.jpg",
+              "character": "Jon Snow"
+            },
+            {
+              "id": 1223786,
+              "name": "Emilia Clarke",
+              "profile_path": "/86jeYFV40KctQMDQIWhJ5oviNGj.jpg",
+              "character": "Daenerys Targaryen"
+            },
+            {
+              "id": 22970,
+              "name": "Peter Dinklage",
+              "profile_path": "/lRsRgnksAhBRXwAB68MFjmTtLrk.jpg",
+              "character": "Tyrion Lannister"
+            },
+            {
+              "id": 17286,
+              "name": "Lena Headey",
+              "profile_path": "/xR2IBnBlUdyBe5hecaVdtRuQqUE.jpg",
+              "character": "Cersei Lannister"
+            },
+            {
+              "id": 1181313,
+              "name": "Maisie Williams",
+              "profile_path": "/zLTq39cdRjS43dEzb78c1p1QcbT.jpg",
+              "character": "Arya Stark"
+            },
+            {
+              "id": 1001657,
+              "name": "Sophie Turner",
+              "profile_path": "/3T8rFgLbfuQoPFVC0m6jOYYaRBX.jpg",
+              "character": "Sansa Stark"
+            },
+            {
+              "id": 239020,
+              "name": "Isaac Hempstead-Wright",
+              "profile_path": "/g6ZreLmGrrOzaUCGVFRNPAWfcso.jpg",
+              "character": "Bran Stark"
+            },
+            {
+              "id": 12795,
+              "name": "Nikolaj Coster-Waldau",
+              "profile_path": "/zCWcyAfbbEgB3Lmiew1yrkPU4Lr.jpg",
+              "character": "Jaime Lannister"
+            },
+            {
+              "id": 15498,
+              "name": "Liam Cunningham",
+              "profile_path": "/ljmFT9zYqh4k2bmEcNU6rxoE7fW.jpg",
+              "character": "Davos Seaworth"
+            },
+            {
+              "id": 1011904,
+              "name": "Gwendoline Christie",
+              "profile_path": "/kmlv5i02n3zKryBr2W3kSeWVKTD.jpg",
+              "character": "Brienne of Tarth"
+            },
+            {
+              "id": 964792,
+              "name": "Jacob Anderson",
+              "profile_path": "/atkSptvQU7XdRVGrL5hiymbXwhd.jpg",
+              "character": "Grey Worm"
+            },
+            {
+              "id": 3075,
+              "name": "Rory McCann",
+              "profile_path": "/meEHyiCRXTTCiYQMzP4VEdvEuD0.jpg",
+              "character": "Sandor Clegane"
+            },
+            {
+              "id": 84423,
+              "name": "Conleth Hill",
+              "profile_path": "/zRc8eGN3aFjDapoAKpzWBYBFxCr.jpg",
+              "character": "Varys"
+            },
+            {
+              "id": 2725794,
+              "name": "Vasco Temudo",
+              "profile_path": "/eyM6NASbafEFIFese7qL0jTV0EQ.jpg",
+              "character": "Soldier (Uncredited)"
+            },
+            {
+              "id": 570296,
+              "name": "Joe Dempsie",
+              "profile_path": "/lnR0AMIwxQR6zUCOhp99GnMaRet.jpg",
+              "character": "Gendry"
+            },
+            {
+              "id": 1010135,
+              "name": "John Bradley",
+              "profile_path": "/eLcisM9qqCLWnf0iImHuSn08FOi.jpg",
+              "character": "Samwell Tarly"
+            },
+            {
+              "id": 195930,
+              "name": "Jerome Flynn",
+              "profile_path": "/yI5xxWITp2YjMgiwac72Nen60jq.jpg",
+              "character": "Bronn"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "1989-12-17",
+        "id": 456,
+        "title": "The Simpsons",
+        "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/tubgEpjTUA7t0kejVMBsNBZDarZ.jpg",
+        "vote_average": 7.9,
+        "cast": [
+            {
+              "id": 198,
+              "name": "Dan Castellaneta",
+              "profile_path": "/AmeqWhP4A46AWkM4kVphg6jOTQX.jpg",
+              "character": "Homer Simpson / Abe Simpson / Barney Gumble / Krusty (voice)"
+            },
+            {
+              "id": 199,
+              "name": "Julie Kavner",
+              "profile_path": "/x3oG3OXtBfTFgqXPqxI1GKVEiaQ.jpg",
+              "character": "Marge Simpson / Patty Bouvier / Selma Bouvier (voice)"
+            },
+            {
+              "id": 200,
+              "name": "Nancy Cartwright",
+              "profile_path": "/40qNhyYJhSE2Yiy4pnXSZhdufO6.jpg",
+              "character": "Bart Simpson / Nelson Muntz / Ralph Wiggum (voice)"
+            },
+            {
+              "id": 5586,
+              "name": "Yeardley Smith",
+              "profile_path": "/9AjPwbb3uz4GfgOPBYsy2ILvwkB.jpg",
+              "character": "Lisa Simpson (voice)"
+            },
+            {
+              "id": 5587,
+              "name": "Hank Azaria",
+              "profile_path": "/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg",
+              "character": "Moe Szyslak / Chief Wiggum / Apu / Comic Book Guy / Carl (voice)"
+            },
+            {
+              "id": 6008,
+              "name": "Harry Shearer",
+              "profile_path": "/au1mO0Mb9gni7h0rJCSokBTDnVf.jpg",
+              "character": "Ned Flanders / Mr. Burns / Smithers / Skinner / Lenny (voice)"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2018-06-12",
+        "id": 80240,
+        "title": "The Queen of Flow",
+        "overview": "After spending seventeen years in prison unfairly, a talented songwriter seeks revenge on the men who sank her and killed her family.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/fuVuDYrs8sxvEolnYr0wCSvtyTi.jpg",
+        "vote_average": 8,
+        "cast": [
+            {
+              "id": 2071691,
+              "name": "Andres Sandoval",
+              "profile_path": null,
+              "character": "Juancho"
+            },
+            {
+              "id": 2071693,
+              "name": "Carlos Torres",
+              "profile_path": null,
+              "character": "Charlie Flow"
+            },
+            {
+              "id": 2071695,
+              "name": "Lucho Velasco",
+              "profile_path": null,
+              "character": "Manin"
+            },
+            {
+              "id": 3065072,
+              "name": "María José Vargas",
+              "profile_path": null,
+              "character": "Yeimi"
+            },
+            {
+              "id": 1155909,
+              "name": "Carolina Ramírez",
+              "profile_path": null,
+              "character": "Yeimy Montoya / Tammy Andrade"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "1983-09-19",
+        "id": 2778,
+        "title": "Wheel of Fortune",
+        "overview": "This game show sees contestants solve word puzzles, similar to those used in Hangman, to win cash and prizes determined by spinning a giant carnival wheel.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/2fvAIyVfFHQdhJ7OsJWuMlF7836.jpg",
+        "vote_average": 6.8,
+        "cast": [
+            {
+              "id": 97752,
+              "name": "Vanna White",
+              "profile_path": "/rh0omK2jdpmSjhZoKT4ovJRE2dl.jpg",
+              "character": "Co-Host"
+            },
+            {
+              "id": 1224503,
+              "name": "Pat Sajak",
+              "profile_path": "/lyRJT9WiHP101FVrdxzQauMGGCI.jpg",
+              "character": "Host"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2017-05-02",
+        "id": 71446,
+        "title": "Money Heist",
+        "overview": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+        "vote_average": 8.3,
+        "cast": [
+            {
+              "id": 1340020,
+              "name": "Álvaro Morte",
+              "profile_path": "/2TGPhdpRC5wjdFEJqnLYiN5kbwg.jpg",
+              "character": "Sergio 'El Profesor' Marquina / Salvador 'Salva' Martin"
+            },
+            {
+              "id": 1042728,
+              "name": "Úrsula Corberó",
+              "profile_path": "/noNEe22FM78cYuNGH9jwdQ6rdA8.jpg",
+              "character": "Silene 'Tokio' Oliveira"
+            },
+            {
+              "id": 947514,
+              "name": "Itziar Ituño",
+              "profile_path": "/vnrfL03NwRJ1X82esSNUoYzASGr.jpg",
+              "character": "Raquel Murillo"
+            },
+            {
+              "id": 1109836,
+              "name": "Pedro Alonso",
+              "profile_path": "/38HeVKeOBztVYrLJOWzAtEZiB02.jpg",
+              "character": "Andrés 'Berlin' de Fonollosa"
+            },
+            {
+              "id": 1972706,
+              "name": "Jaime Lorente",
+              "profile_path": "/nLaxzU92z14FIbe25sE8jDMIThZ.jpg",
+              "character": "Dani 'Denver' Ramos"
+            },
+            {
+              "id": 1428896,
+              "name": "Miguel Herrán",
+              "profile_path": "/jJ8UKek4GvQrQUP9q97Kq2MWVqi.jpg",
+              "character": "Aníbal 'Río' Cortés"
+            },
+            {
+              "id": 1972707,
+              "name": "Esther Acebo",
+              "profile_path": "/2v2eOKCjnQfY3jCsowtH8wLxFMC.jpg",
+              "character": "Mónica Gaztambide"
+            },
+            {
+              "id": 18478,
+              "name": "Rodrigo de la Serna",
+              "profile_path": "/vMuKUJSnEGOmjjLYzVDKGukiaCr.jpg",
+              "character": "Martín 'Palermo' Berrote"
+            },
+            {
+              "id": 944099,
+              "name": "Enrique Arce",
+              "profile_path": "/1lACQepfukuZ0l6FnUpMO03WxcJ.jpg",
+              "character": "Arturo Román"
+            },
+            {
+              "id": 1898026,
+              "name": "Darko Peric",
+              "profile_path": "/9IsIRW3PE105bfwen4IzGPXfmQc.jpg",
+              "character": "Mirko 'Helsinki' Dragic"
+            },
+            {
+              "id": 1131415,
+              "name": "Hovik Keuchkerian",
+              "profile_path": "/o5cGKWHlZl4RFROYlT2hD95j0lN.jpg",
+              "character": "Santiago 'Bogotá' López"
+            },
+            {
+              "id": 1076809,
+              "name": "Luka Peroš",
+              "profile_path": "/lfh7959EpR9gAvrjObNGXaUg2qF.jpg",
+              "character": "Jakov 'Marsella'"
+            },
+            {
+              "id": 1423493,
+              "name": "Belén Cuesta",
+              "profile_path": "/xxaNCeIuLh7nZvuCrwANO3zwI5g.jpg",
+              "character": "Julia Martínez"
+            },
+            {
+              "id": 51902,
+              "name": "Fernando Cayo",
+              "profile_path": "/sglfXHNFlzOBBLuRrbDkxghSW4H.jpg",
+              "character": "Luis Tamayo"
+            },
+            {
+              "id": 16442,
+              "name": "Najwa Nimri",
+              "profile_path": "/hvLbKkDIT4FqSS8djmW5voNd0O4.jpg",
+              "character": "Alicia Sierra"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2019-12-20",
+        "id": 71912,
+        "title": "The Witcher",
+        "overview": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/7vjaCdMw15FEbXyLQTVa04URsPm.jpg",
+        "vote_average": 8.2,
+        "cast": [
+            {
+              "id": 73968,
+              "name": "Henry Cavill",
+              "profile_path": "/iWdKjMry5Pt7vmxU7bmOQsIUyHa.jpg",
+              "character": "Geralt of Rivia"
+            },
+            {
+              "id": 2146944,
+              "name": "Anya Chalotra",
+              "profile_path": "/r4Ss6bZAZR77wQmD5s7G35weLrm.jpg",
+              "character": "Yennefer of Vengerberg"
+            },
+            {
+              "id": 2146942,
+              "name": "Freya Allan",
+              "profile_path": "/cjsSdfv9U8PboNG1SNfnvd5558T.jpg",
+              "character": "Princess Cirilla of Cintra"
+            },
+            {
+              "id": 1503072,
+              "name": "Mimi Ndiweni",
+              "profile_path": "/kfwWaxcovzkahqDDhhJwPrGbnny.jpg",
+              "character": "Fringilla Vigo"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2019-01-11",
+        "id": 81356,
+        "title": "Sex Education",
+        "overview": "Inexperienced Otis channels his sex therapist mom when he teams up with rebellious Maeve to set up an underground sex therapy clinic at school.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/8j12tohv1NBZNmpU93f47sAKBbw.jpg",
+        "vote_average": 8.4,
+        "cast": [
+            {
+              "id": 77996,
+              "name": "Asa Butterfield",
+              "profile_path": "/hMDIBO0QcOydD0UtfeDjTR7mhi6.jpg",
+              "character": "Otis Milburn"
+            },
+            {
+              "id": 12214,
+              "name": "Gillian Anderson",
+              "profile_path": "/5emeOf49lM2WSs4rc186Wc9Zgs3.jpg",
+              "character": "Jean Milburn"
+            },
+            {
+              "id": 1475239,
+              "name": "Ncuti Gatwa",
+              "profile_path": "/zc7x4xSaSUb85PBYUj7sXu17NvT.jpg",
+              "character": "Eric Effiong"
+            },
+            {
+              "id": 2201315,
+              "name": "Emma Mackey",
+              "profile_path": "/9OZBcFSS3Yz0Oqr8mssbQa4suW8.jpg",
+              "character": "Maeve Wiley"
+            },
+            {
+              "id": 2112439,
+              "name": "Connor Swindells",
+              "profile_path": "/jUY1Ayi79usRpwjMmrGVtGmWL6B.jpg",
+              "character": "Adam Groff"
+            },
+            {
+              "id": 126169,
+              "name": "Kedar Williams-Stirling",
+              "profile_path": "/l9UYG8tPpyxUTR5bsimXvLDux1m.jpg",
+              "character": "Jackson Marchetti"
+            },
+            {
+              "id": 56100,
+              "name": "Alistair Petrie",
+              "profile_path": "/byHbMDmqhh0C0yGSOgvx978PiCI.jpg",
+              "character": "Michael Groff"
+            },
+            {
+              "id": 1694711,
+              "name": "Mimi Keene",
+              "profile_path": "/yC4gDbUHJ0ANo7nACi87VrU7KoZ.jpg",
+              "character": "Ruby Matthews"
+            },
+            {
+              "id": 2201317,
+              "name": "Aimee Lou Wood",
+              "profile_path": "/4mBtmJ4MAkP1fRPhQC7lHTpntW3.jpg",
+              "character": "Aimee Gibbs"
+            },
+            {
+              "id": 2223751,
+              "name": "Chaneil Kular",
+              "profile_path": "/b6TmM2wcVntDMJGZWQM3ftshhIi.jpg",
+              "character": "Anwar Bakshi"
+            },
+            {
+              "id": 2223752,
+              "name": "Simone Ashley",
+              "profile_path": "/sE4dPGknBFLpO4DoCQqL0AkasHH.jpg",
+              "character": "Olivia Hanan"
+            },
+            {
+              "id": 1731959,
+              "name": "Tanya Reynolds",
+              "profile_path": "/m5FP6lzbxYon8W6hEvj9d4h21i4.jpg",
+              "character": "Lily Iglehart"
+            },
+            {
+              "id": 2223754,
+              "name": "Patricia Allison",
+              "profile_path": "/ztRXYFo2HUgUkxKjNbh3ivlw6pL.jpg",
+              "character": "Ola Nyman"
+            },
+            {
+              "id": 52398,
+              "name": "Mikael Persbrandt",
+              "profile_path": "/uWrggcjCnIFliK0z5nCQTCLViZB.jpg",
+              "character": "Jakob Nyman"
+            },
+            {
+              "id": 1147671,
+              "name": "Rakhee Thakrar",
+              "profile_path": "/af76hFq2OmCfMiwMZRPAjaWyvvT.jpg",
+              "character": "Emily Sands"
+            },
+            {
+              "id": 139151,
+              "name": "Jemima Kirke",
+              "profile_path": "/tPBv42wgYOkTBWzRndEz50hTtdE.jpg",
+              "character": "Hope Haddon"
+            },
+            {
+              "id": 37058,
+              "name": "Anne-Marie Duff",
+              "profile_path": "/fR3z8QgUDPb6Br5fUmm0ASPTWWx.jpg",
+              "character": "Erin Wiley"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2016-07-19",
+        "id": 67335,
+        "title": "Sin senos sí hay paraíso",
+        "overview": "A young woman born in a mafia-controlled town seeks revenge on those who wrongfully harmed and imprisoned her family.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/7lBJ6lOS0uQqsH13U9iMTikawQS.jpg",
+        "vote_average": 7.5,
+        "cast": [
+            {
+              "id": 1418219,
+              "name": "Carmen Villalobos",
+              "profile_path": "/i2VvCZH6hswYXI6mRtw4AYCkK5r.jpg",
+              "character": "Catalina Santana"
+            },
+            {
+              "id": 1489764,
+              "name": "Carolina Gaitán",
+              "profile_path": "/lnmKScZo3GntDNIjaXOkuDeOA90.jpg",
+              "character": "Catalina Marín"
+            },
+            {
+              "id": 2982047,
+              "name": "Stephania Duque",
+              "profile_path": null,
+              "character": "Mariana Sanín Santana"
+            },
+            {
+              "id": 1252026,
+              "name": "Fabián Ríos",
+              "profile_path": "/jvIGKqqoDcAEbRBVCVoLsfhNCy3.jpg",
+              "character": "Albeiro Marín"
+            },
+            {
+              "id": 1222609,
+              "name": "Catherine Siachoque",
+              "profile_path": "/cMMlna6LChMAOttFCdRWkj9rz1C.jpg",
+              "character": "Hilda Santana"
+            },
+            {
+              "id": 1524508,
+              "name": "Gregorio Pernía",
+              "profile_path": null,
+              "character": "Aurelio Jaramillo \"El Titi\""
+            },
+            {
+              "id": 1869543,
+              "name": "Kimberly Reyes",
+              "profile_path": null,
+              "character": "Yésica Beltrán \"La Diabla\" / Valeria Montes ​/ Karla Maldonado"
+            },
+            {
+              "id": 1919397,
+              "name": "Juan Pablo Urrego",
+              "profile_path": "/1T09jzblGtFpEbNoLjyMAmiciiN.jpg",
+              "character": "Hernán Darío Bayona \"Nacho\""
+            },
+            {
+              "id": 1235750,
+              "name": "Juan Pablo Gamboa",
+              "profile_path": "/9iUV2gFxitszmujZnTmJTv8SS1P.jpg",
+              "character": "Aaron Mondego \"Mano Negra\""
+            },
+            {
+              "id": 2136049,
+              "name": "Roberto Manrique",
+              "profile_path": "/aRHZTpImYFJdLbw2q4hhQK0mWKO.jpg",
+              "character": "Santiago Sanín"
+            },
+            {
+              "id": 1524527,
+              "name": "Francisco Bolívar",
+              "profile_path": "/8PYEA3qTVQJDxCTo5GliMZ8wMgY.jpg",
+              "character": "José Luis Vargas \"Jota\""
+            },
+            {
+              "id": 2479267,
+              "name": "Mauricio Cujar",
+              "profile_path": null,
+              "character": "Edmundo Dorantes Borrero \"La Sombra\""
+            },
+            {
+              "id": 2977759,
+              "name": "Estefania Gomez",
+              "profile_path": null,
+              "character": "Vanessa Salazar"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2021-11-08",
+        "id": 132375,
+        "title": "Um Lugar ao Sol",
+        "original_name": "Um Lugar ao Sol",
+        "overview": "",
+        "poster_path": "https://image.tmdb.org/t/p/w500/63qlVcvlVzOvMaFO8tFA2VG64Yc.jpg",
+        "vote_average": 5,
+        "cast": [
+            {
+              "id": 567574,
+              "name": "Cauã Reymond",
+              "profile_path": "/4M36rIR7QchctbfgqKoB4EJYa9c.jpg",
+              "character": "Christian / Christofer / Renato"
+            },
+            {
+              "id": 569891,
+              "name": "Alinne Moraes",
+              "profile_path": "/nHo8WwHaiiSJjUPOR9m6KOl7lWr.jpg",
+              "character": "Lara"
+            },
+            {
+              "id": 225087,
+              "name": "Andréia Horta",
+              "profile_path": "/xkcylxCDhGoSsJ5tPpWDEqMVpZd.jpg",
+              "character": "Bárbara"
+            },
+            {
+              "id": 102556,
+              "name": "Andréa Beltrão",
+              "profile_path": "/sIkl1dNt9kbkVN5clcHaQJgRM2z.jpg",
+              "character": "Rebeca"
+            },
+            {
+              "id": 138327,
+              "name": "Marieta Severo",
+              "profile_path": "/hR56KyHsNkeobRsSvhb04Nff8vp.jpg",
+              "character": "Noca"
+            },
+            {
+              "id": 1961881,
+              "name": "Juan Paiva",
+              "profile_path": "/3I2sVaGmdH21eyZiGG5j9P4pP8J.jpg",
+              "character": "Ravi"
+            },
+            {
+              "id": 95164,
+              "name": "Daniel Dantas",
+              "profile_path": "/pwy8aRyZf0WXEJxTSQ45faO6xeq.jpg",
+              "character": "Túlio"
+            },
+            {
+              "id": 769308,
+              "name": "José de Abreu",
+              "profile_path": "/rzHfb4ohNZvlyOgF8zZik7A70f2.jpg",
+              "character": "Santiago"
+            },
+            {
+              "id": 974715,
+              "name": "Ana Beatriz Nogueira",
+              "profile_path": "/rMD7o3PtnJEG9kCblOMnmHFW88a.jpg",
+              "character": "Elenice"
+            },
+            {
+              "id": 637852,
+              "name": "Mariana Lima",
+              "profile_path": "/vJJ6PsQGsR0Tcd1Gy5U5KdHfKmM.jpg",
+              "character": "Ilana"
+            },
+            {
+              "id": 87339,
+              "name": "Marco Ricca",
+              "profile_path": "/c2CqQBY2EUfudnVP1wZQWDZoWsZ.jpg",
+              "character": "Breno"
+            },
+            {
+              "id": 55826,
+              "name": "Natália Lage",
+              "profile_path": "/wc7LDdWNZG4asr6goqEmyUljQSJ.jpg",
+              "character": "Dra. Gabriela"
+            },
+            {
+              "id": 1375971,
+              "name": "Regina Braga",
+              "profile_path": "/nmG7KDXIKpNNHtzJSm1ZZxNDnQt.jpg",
+              "character": "Ana Virgínia"
+            },
+            {
+              "id": 1475555,
+              "name": "Gabriel Leone",
+              "profile_path": "/kYtW0n9Z5khheXldmhfKaazS6uK.jpg",
+              "character": "Felipe"
+            },
+            {
+              "id": 123758,
+              "name": "Denise Fraga",
+              "profile_path": "/8GC3u2R3yVMH2WYm5z8CpL4hHOc.jpg",
+              "character": "Júlia"
+            },
+            {
+              "id": 95149,
+              "name": "Danton Mello",
+              "profile_path": "/f6PXWO5Dv0k5ShCcYJDFddFrAQN.jpg",
+              "character": "Matheus"
+            },
+            {
+              "id": 1257193,
+              "name": "Fernanda de Freitas",
+              "profile_path": "/eVo88pZMDw25HlRRTvYKZntejRl.jpg",
+              "character": "Erica"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2021-01-18",
+        "id": 117031,
+        "title": "People Puzzler",
+        "overview": "Three lucky contestants put their pop culture knowledge to the test to complete iconic, People Puzzler crosswords. The player with the most points at the end of three rounds wins the game and goes on to play the \"Fast Puzzle Round\" for an enormous cash prize.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/gELQSCY5KKIGQAmOHbcgcRGNlp5.jpg",
+        "vote_average": 6.1,
+        "cast": [
+            {
+              "id": 15050,
+              "name": "Leah Remini",
+              "profile_path": "/5tiOfc5IGgzXodMD475aY85ZdSf.jpg",
+              "character": "Self - Host"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2021-05-25",
+        "id": 124124,
+        "title": "Café con aroma de mujer",
+        "overview": "",
+        "poster_path": "https://image.tmdb.org/t/p/w500/ztyJqTdS7RApGgl6ZXmFdGZX3g0.jpg",
+        "vote_average": 6.9,
+        "cast": [
+            {
+              "id": 3065602,
+              "name": "Luis Eduardo Motoa",
+              "profile_path": null,
+              "character": "Octavio Vallejo"
+            },
+            {
+              "id": 3065603,
+              "name": "María Teresa Barreto",
+              "profile_path": null,
+              "character": "Marcela Vallejo"
+            },
+            {
+              "id": 972671,
+              "name": "William Levy",
+              "profile_path": "/fi1k181dsQfV6rtK7zd8m62Wq4L.jpg",
+              "character": "Sebastian Vallejo"
+            },
+            {
+              "id": 1512786,
+              "name": "Laura Londoño",
+              "profile_path": null,
+              "character": "Gaviota"
+            },
+            {
+              "id": 1418219,
+              "name": "Carmen Villalobos",
+              "profile_path": "/i2VvCZH6hswYXI6mRtw4AYCkK5r.jpg",
+              "character": "Lucia Sanclemente"
+            },
+            {
+              "id": 589110,
+              "name": "Diego Cadavid",
+              "profile_path": "/wkZJ5hYJ8VmO3dtSfsIIqJngZJL.jpg",
+              "character": "Iván Vallejo"
+            },
+            {
+              "id": 2090252,
+              "name": "Juan David Agudelo",
+              "profile_path": null,
+              "character": "Bernardo Vallejo"
+            },
+            {
+              "id": 1251173,
+              "name": "Katherine Vélez",
+              "profile_path": null,
+              "character": "Carmenza Suárez"
+            },
+            {
+              "id": 1618667,
+              "name": "Laura Archbold",
+              "profile_path": "/f7ILXMhJE2rFBvcv6MgDFzIGpjZ.jpg",
+              "character": "Paula Vallejo"
+            },
+            {
+              "id": 1432338,
+              "name": "Lincoln Palomeque",
+              "profile_path": "/sV77pgKtB1ifBnTLxmTiqiL3N4k.jpg",
+              "character": "Leonidas Salinas"
+            },
+            {
+              "id": 1524502,
+              "name": "Luces Velásquez",
+              "profile_path": null,
+              "character": "Julia de Vallejo"
+            },
+            {
+              "id": 2071690,
+              "name": "Mabel Moreno",
+              "profile_path": "/sWuEZRpA54LkhBioN3cqnoMfhVb.jpg",
+              "character": "Lucrecia Valencia"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2009-09-10",
+        "id": 18165,
+        "title": "The Vampire Diaries",
+        "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/gbp4zM0FE0n23X4UFY5EBlacrog.jpg",
+        "vote_average": 8.3,
+        "cast": [
+            {
+              "id": 83141,
+              "name": "Paul Wesley",
+              "profile_path": "/5Y41OJCtiYIBc4a8zbYRdNJ7Q4v.jpg",
+              "character": "Stefan Salvatore"
+            },
+            {
+              "id": 19211,
+              "name": "Ian Somerhalder",
+              "profile_path": "/egcPsSlojwiB3kXjj3rpZSxu5gq.jpg",
+              "character": "Damon Salvatore"
+            },
+            {
+              "id": 159962,
+              "name": "Kat Graham",
+              "profile_path": "/9AvpU8NAcPJRcioeNm5kVo4rPZg.jpg",
+              "character": "Bonnie Bennett"
+            },
+            {
+              "id": 85144,
+              "name": "Candice King",
+              "profile_path": "/m6PxOADgKFyC3748DDyE7hsugNr.jpg",
+              "character": "Caroline Forbes"
+            },
+            {
+              "id": 221841,
+              "name": "Zach Roerig",
+              "profile_path": "/mxWxwVzx5vG6wwg2z9ELtbqtz7e.jpg",
+              "character": "Matt Donovan"
+            },
+            {
+              "id": 1465190,
+              "name": "Michael Malarkey",
+              "profile_path": "/731hKJr8wnFf2OEx6wMcAQyO1g6.jpg",
+              "character": "Enzo St. John"
+            },
+            {
+              "id": 56045,
+              "name": "Matthew Davis",
+              "profile_path": "/7VKR2vroCbzVeklTzYSjnVVOwkl.jpg",
+              "character": "Alaric Saltzman"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2021-11-28",
+        "id": 133723,
+        "title": "Harry Potter: Hogwarts Tournament of Houses",
+        "overview": "Wizarding World fans put their Harry Potter knowledge to the test for the ultimate honor to be named House Cup champion.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/tEHHfzqHnfNJUp4L30wQeYl2xRo.jpg",
+        "vote_average": 7.8,
+        "cast": [
+            {
+              "id": 15735,
+              "name": "Helen Mirren",
+              "profile_path": "/1reKRrsdsHXJaRVHVyOEg4oPTcZ.jpg",
+              "character": "Self - Host"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2021-06-09",
+        "id": 84958,
+        "title": "Loki",
+        "overview": "After stealing the Tesseract during the events of “Avengers: Endgame,” an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a “time variant” or help fix the timeline and stop a greater threat.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
+        "vote_average": 8.2,
+        "cast": [
+            {
+              "id": 91606,
+              "name": "Tom Hiddleston",
+              "profile_path": "/mclHxMm8aPlCPKptP67257F5GPo.jpg",
+              "character": "Loki Laufeyson"
+            },
+            {
+              "id": 887,
+              "name": "Owen Wilson",
+              "profile_path": "/op8sGD20k3EQZLR92XtaHoIbW0o.jpg",
+              "character": "Mobius M. Mobius"
+            },
+            {
+              "id": 1252533,
+              "name": "Sophia Di Martino",
+              "profile_path": "/qZdFp18btpQJfDoknxr7DgfRpcB.jpg",
+              "character": "Sylvie / The Variant"
+            },
+            {
+              "id": 1216606,
+              "name": "Gugu Mbatha-Raw",
+              "profile_path": "/6QInv8etQHXTbiMkJTzftvJ40RP.jpg",
+              "character": "Ravonna Renslayer"
+            },
+            {
+              "id": 134774,
+              "name": "Wunmi Mosaku",
+              "profile_path": "/mWDsVCo9sBcekrsjUTsoCFLhtYt.jpg",
+              "character": "Hunter B-15"
+            },
+            {
+              "id": 15762,
+              "name": "Tara Strong",
+              "profile_path": "/y9S3QzI3L5aARP8GYYO86rREKxU.jpg",
+              "character": "Miss Minutes (voice)"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2002-10-03",
+        "id": 46260,
+        "title": "Naruto",
+        "overview": "In another world, ninja are the ultimate power, and in the Village Hidden in the Leaves live the stealthiest ninja in the land. Twelve years earlier, the fearsome Nine-Tailed Fox terrorized the village and claimed many lives before it was subdued and its spirit sealed within the body of a baby boy. That boy, Naruto Uzumaki, has grown up to become a ninja-in-training who's more interested in pranks than in studying ninjutsu.. but Naruto is determined to become the greatest ninja ever!",
+        "poster_path": "https://image.tmdb.org/t/p/w500/vauCEnR7CiyBDzRCeElKkCaXIYu.jpg",
+        "vote_average": 8.4,
+        "cast": [
+            {
+              "id": 82055,
+              "name": "Junko Takeuchi",
+              "profile_path": "/r0mRj4lNrKCmwGrzpgptKe096u1.jpg",
+              "character": "Naruto Uzumaki"
+            },
+            {
+              "id": 82056,
+              "name": "Noriaki Sugiyama",
+              "profile_path": "/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg",
+              "character": "Sasuke Uchiha"
+            },
+            {
+              "id": 82057,
+              "name": "Chie Nakamura",
+              "profile_path": "/evB6vKUbm0CKgBcgikPeFXdwd29.jpg",
+              "character": "Sakura Haruno"
+            },
+            {
+              "id": 89968,
+              "name": "Kazuhiko Inoue",
+              "profile_path": "/pbtAwOl8h7JU62w0IibV024No4z.jpg",
+              "character": "Kakashi Hatake"
+            },
+            {
+              "id": 1213848,
+              "name": "Hidekatsu Shibata",
+              "profile_path": "/hnKQe1GpuLAZY8pDnJc6eXIQzfv.jpg",
+              "character": "Hiruzen Sarutobi (3º Hokage)"
+            },
+            {
+              "id": 550662,
+              "name": "Kōichi Tōchika",
+              "profile_path": "/4r9cO2LZT0f1pQkNo8v9P2JCsQu.jpg",
+              "character": "Neji Hyuga"
+            },
+            {
+              "id": 111531,
+              "name": "Masashi Ebara",
+              "profile_path": "/73QzLxyhSNVwgjx1KtYUqaRBG9b.jpg",
+              "character": "Might Guy"
+            },
+            {
+              "id": 89971,
+              "name": "Yōichi Masukawa",
+              "profile_path": "/sE664CcqM1pvoWsYsca7szlIzl5.jpg",
+              "character": "Rock Lee"
+            },
+            {
+              "id": 203268,
+              "name": "Yukari Tamura",
+              "profile_path": "/1VquTCcon9zDRbFZDSnbY7Pc425.jpg",
+              "character": "Tenten"
+            },
+            {
+              "id": 114906,
+              "name": "Ryoka Yuzuki",
+              "profile_path": "/rizvCqUDzg6ArDBXt6Dv1eS9tIG.jpg",
+              "character": "Ino Yamanaka"
+            },
+            {
+              "id": 9714,
+              "name": "Showtaro Morikubo",
+              "profile_path": "/3OsBYIbC5XBDIUVnZiDBD1dewHP.jpg",
+              "character": "Shikamaru Nara"
+            },
+            {
+              "id": 81363,
+              "name": "Kentaro Ito",
+              "profile_path": "/sXafSaiG99lBVV8lpkNC2naHjdR.jpg",
+              "character": "Choji Akimichi"
+            },
+            {
+              "id": 1244721,
+              "name": "Shinji Kawada",
+              "profile_path": "/ofpHK6Hepv1FD0Y3p9euNc0lThD.jpg",
+              "character": "Shino Aburame"
+            },
+            {
+              "id": 24651,
+              "name": "Nana Mizuki",
+              "profile_path": "/1h4C1kz8mziHmiB91MliTDHwgoh.jpg",
+              "character": "Hinata Hyuga"
+            },
+            {
+              "id": 122647,
+              "name": "Kohsuke Toriumi",
+              "profile_path": "/jsQFf7j86JF9ox2Qd3P7kvmjvmY.jpg",
+              "character": "Kiba Inuzuka"
+            },
+            {
+              "id": 9720,
+              "name": "Hideo Ishikawa",
+              "profile_path": "/gEjEDNGt3CHsyzFQdNqewZVbh0.jpg",
+              "character": "Itachi Uchiha"
+            },
+            {
+              "id": 1244461,
+              "name": "Tomoyuki Dan",
+              "profile_path": "/mFCd6V5j9x6hZsepGBm1LUg9MJM.jpg",
+              "character": "Kisame Hoshigaki"
+            },
+            {
+              "id": 81244,
+              "name": "Akira Ishida",
+              "profile_path": "/jnW2Gn2NlR2uwOCeyOuzypnTmkH.jpg",
+              "character": "Gaara"
+            },
+            {
+              "id": 90571,
+              "name": "Toshihiko Seki",
+              "profile_path": "/esu8zw5fb3f7IAyQ2CDVfypbB2U.jpg",
+              "character": "Iruka Umino"
+            },
+            {
+              "id": 124482,
+              "name": "Nobutoshi Canna",
+              "profile_path": "/ijjbaeZuMuFHQJrvY0DAqzQzjht.jpg",
+              "character": "Kabuto Yakushi"
+            },
+            {
+              "id": 1241505,
+              "name": "Kujira",
+              "profile_path": "/dL2u3VyRBswwTEW4E8lbsHbqzeZ.jpg",
+              "character": "Orochimaru"
+            },
+            {
+              "id": 552683,
+              "name": "Hochu Otsuka",
+              "profile_path": "/ouMRSpccmkS6iOMVkSc4fEOBiN2.jpg",
+              "character": "Jiraiya"
+            },
+            {
+              "id": 934837,
+              "name": "Keiko Nemoto",
+              "profile_path": "/wrcTNEmTSe3mFgykRC1xDcpwU3j.jpg",
+              "character": "Shizune"
+            },
+            {
+              "id": 1811354,
+              "name": "Rumi Rakugou",
+              "profile_path": null,
+              "character": "Kurenai Yuuhi"
+            },
+            {
+              "id": 1811349,
+              "name": "Kouyori Katase",
+              "profile_path": null,
+              "character": "Kankuro"
+            },
+            {
+              "id": 81243,
+              "name": "Romi Park",
+              "profile_path": "/fEvexnzIMSiwajd7Tt1QVjSIDDS.jpg",
+              "character": "Temari"
+            },
+            {
+              "id": 70098,
+              "name": "Jurota Kosugi",
+              "profile_path": "/em3Zh1IzkTDSdaoGBVLx89u6GuI.jpg",
+              "character": "Asuma Sarutobi"
+            },
+            {
+              "id": 115792,
+              "name": "Masako Katsuki",
+              "profile_path": "/szBdXm77jVvvHLaDoxEs9Nl9dtF.jpg",
+              "character": "Tsunade"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2020-07-08",
+        "id": 104877,
+        "title": "Love Is In The Air",
+        "overview": "Eda, who ties all her hopes to her education, confronts Serkan Bolat, who cuts off her international education scholarship and leaves her with high school diploma. Serkan Bolat offers Eda to give her scholarship back if she pretends to be his fiance for two months. Although Eda rejects the offer of this man as she hates him, she has to accept it when the conditions change. While pretending to be engaged, Serkan and Eda begin to experience a passionate, challenging relationship that will make them forget all they know right. Because love is difficult. And that's why it's amazing.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/nzBenFJ2D2MCWTwTt2uc4BGWLtA.jpg",
+        "vote_average": 8.2,
+        "cast": [
+            {
+              "id": 1522703,
+              "name": "Hande Erçel",
+              "profile_path": "/lskwPjNLTuH0hZsuDKErWinhv8E.jpg",
+              "character": "Eda Yıldız"
+            },
+            {
+              "id": 134497,
+              "name": "Kerem Bürsin",
+              "profile_path": "/6abFV7TBSgaPX7E9tBbx5mrMx3C.jpg",
+              "character": "Serkan Bolat"
+            },
+            {
+              "id": 1146738,
+              "name": "Neslihan Yeldan",
+              "profile_path": "/jS9PWUQuBLxBbDgcaTkjufI89gK.jpg",
+              "character": "Aydan Bolat"
+            },
+            {
+              "id": 1948895,
+              "name": "Alican Aytekin",
+              "profile_path": "/bWGaFjwcJPYbrSeyi5VEHo9ruXr.jpg",
+              "character": "Seyfi Çiçek"
+            },
+            {
+              "id": 2342438,
+              "name": "Başak Gümülcinelioğlu",
+              "profile_path": "/nXk5IhASr8iruO17BBXkZMgEK4r.jpg",
+              "character": "Pırıl Baytekin"
+            },
+            {
+              "id": 1992182,
+              "name": "Evrim Doğan",
+              "profile_path": "/jWb0hSq7A2mgpuyQMvmR0dIGkt3.jpg",
+              "character": "Ayfer Yıldız"
+            },
+            {
+              "id": 2691045,
+              "name": "Anıl İlter",
+              "profile_path": "/8L6JuUkmJE9X1pdeIwRc7G6vA99.jpg",
+              "character": "Engin Sezgin"
+            },
+            {
+              "id": 2691051,
+              "name": "Elçin Afacan",
+              "profile_path": "/A2WIUT1o3fgXepgELNLshLRisqh.jpg",
+              "character": "Melek Yücel \"Melo\""
+            },
+            {
+              "id": 2691053,
+              "name": "Sarp Bozkurt",
+              "profile_path": "/iV2xQG8bPvKnhh7oSDb2rwNzVLA.jpg",
+              "character": "Erdem Şangay"
+            },
+            {
+              "id": 3177791,
+              "name": "Maya Basol",
+              "profile_path": "/wedFINPzUZuFFrJ8Ik9cz9eadR0.jpg",
+              "character": "Kiraz"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2005-09-13",
+        "id": 1622,
+        "title": "Supernatural",
+        "overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
+        "poster_path": "https://image.tmdb.org/t/p/w500/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg",
+        "vote_average": 8.3,
+        "cast": [
+            {
+              "id": 1077775,
+              "name": "Alexander Calvert",
+              "profile_path": "/8T4d7PIOWK90UMQzYXgLHM4zbN5.jpg",
+              "character": "Jack Kline"
+            },
+            {
+              "id": 42747,
+              "name": "Misha Collins",
+              "profile_path": "/kplIxo3cQrEMEYz8YqZOgKDQjgB.jpg",
+              "character": "Castiel"
+            },
+            {
+              "id": 49623,
+              "name": "Jared Padalecki",
+              "profile_path": "/q2YR6o6MKqO2szOhmmSSAnjs2aC.jpg",
+              "character": "Sam Winchester"
+            },
+            {
+              "id": 49624,
+              "name": "Jensen Ackles",
+              "profile_path": "/3DwbC5V1nLK36bpcUZUrYuNrPG1.jpg",
+              "character": "Dean Winchester"
+            }
+          ]
+      },
+      {
+        "category": "tv-show",
+        "release_date": "2013-12-02",
+        "id": 60625,
+        "title": "Rick and Morty",
+        "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+        "poster_path": "https://image.tmdb.org/t/p/w500/8kOWDBK6XlPUzckuHDo3wwVRFwt.jpg",
+        "vote_average": 8.8,
+        "cast": [
+            {
+              "id": 1245733,
+              "name": "Justin Roiland",
+              "profile_path": "/wYApP38aXe6ZcEtlBAfNRxJTQQi.jpg",
+              "character": "Rick Sanchez / Morty Smith (voice)"
+            },
+            {
+              "id": 51382,
+              "name": "Chris Parnell",
+              "profile_path": "/aGzA5l9S89qLkhpSdjmkerFdZt0.jpg",
+              "character": "Jerry Smith (voice)"
+            },
+            {
+              "id": 176823,
+              "name": "Spencer Grammer",
+              "profile_path": "/1L8Y45RJo2YxUXl6ldIowQay1V7.jpg",
+              "character": "Summer Smith (voice)"
+            },
+            {
+              "id": 49001,
+              "name": "Sarah Chalke",
+              "profile_path": "/ycwiu89cpjqCtSNC5FjbJggjj5R.jpg",
+              "character": "Beth Smith (voice)"
+            }
+          ]
+      }
+]

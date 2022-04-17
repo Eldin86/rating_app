@@ -1,0 +1,137 @@
+{
+  "category": "movie",
+  "id": 438695,
+  "overview": "Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.",
+  "poster_path": "https://image.tmdb.org/t/p/w500/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
+  "release_date": "2021-12-01",
+  "title": "Sing 2",
+  "vote_average": 8.2,
+  "cast": [
+    {
+      "id": 10297,
+      "name": "Matthew McConaughey",
+      "profile_path": "/wJiGedOCZhwMx9DezY8uwbNxmAY.jpg",
+      "character": "Buster Moon (voice)"
+    },
+    {
+      "id": 368,
+      "name": "Reese Witherspoon",
+      "profile_path": "/6Pp3BrY2JbJg77Po8NOBO6zOA8m.jpg",
+      "character": "Rosita (voice)"
+    },
+    {
+      "id": 1245,
+      "name": "Scarlett Johansson",
+      "profile_path": "/6NsMbJXRlDZuDzatN2akFdGuTvx.jpg",
+      "character": "Ash (voice)"
+    },
+    {
+      "id": 1303037,
+      "name": "Taron Egerton",
+      "profile_path": "/xFaGAbslcfwYUziyJBkWTfWPlHK.jpg",
+      "character": "Johnny (voice)"
+    },
+    {
+      "id": 21127,
+      "name": "Bobby Cannavale",
+      "profile_path": "/gYQwTbEj5IBPYKLGKgrsNGrWAMl.jpg",
+      "character": "Jimmy Crystal (voice)"
+    },
+    {
+      "id": 1540615,
+      "name": "Tori Kelly",
+      "profile_path": "/lVNwHEY7urqbWYg2zgb47KHxBpi.jpg",
+      "character": "Meena (voice)"
+    },
+    {
+      "id": 208519,
+      "name": "Nick Kroll",
+      "profile_path": "/fNiOuEKeBtELGdhKn4lxXq4O7YP.jpg",
+      "character": "Gunter (voice)"
+    },
+    {
+      "id": 1997030,
+      "name": "Halsey",
+      "profile_path": "/v8bK4100uDYfhpHB7T7tfXa6g9d.jpg",
+      "character": "Porsha Crystal (voice)"
+    },
+    {
+      "id": 558267,
+      "name": "Pharrell Williams",
+      "profile_path": "/vbgFf9k1VE0WLWqQFOQ2nohJlLz.jpg",
+      "character": "Alfonso (voice)"
+    },
+    {
+      "id": 17039,
+      "name": "Nick Offerman",
+      "profile_path": "/zhmWZEJkzqgkIbSqZmFtUm0AwUV.jpg",
+      "character": "Norman (voice)"
+    },
+    {
+      "id": 1083010,
+      "name": "Letitia Wright",
+      "profile_path": "/i6fbYNn5jWA6swWtaqgzaj02RMc.jpg",
+      "character": "Nooshy (voice)"
+    },
+    {
+      "id": 934159,
+      "name": "Eric André",
+      "profile_path": "/e9XlcFnZQiBSQ1vISQVyTOrkIaq.jpg",
+      "character": "Elwood (voice)"
+    },
+    {
+      "id": 1240868,
+      "name": "Chelsea Peretti",
+      "profile_path": "/4sy7TD87DEbGm0Tgv1ZgYumexqj.jpg",
+      "character": "Suki (voice)"
+    },
+    {
+      "id": 33684,
+      "name": "Bono",
+      "profile_path": "/r1jCFctRrEAHBHOyJun8rWCH0AD.jpg",
+      "character": "Clay Calloway (voice)"
+    },
+    {
+      "id": 52842,
+      "name": "Garth Jennings",
+      "profile_path": "/zl6ZWijGySSIYJRFalleAiGkxyQ.jpg",
+      "character": "Karen Crawly (voice)"
+    },
+    {
+      "id": 155532,
+      "name": "Adam Buxton",
+      "profile_path": "/jD0Pl0QnNHuls1PmYtEnBNbuLKY.jpg",
+      "character": "Klaus Kickenklober (voice)"
+    },
+    {
+      "id": 12094,
+      "name": "Jennifer Saunders",
+      "profile_path": "/pTgxwHcz9L8SNVYvPJS0o0lgHya.jpg",
+      "character": "Nana (voice)"
+    },
+    {
+      "id": 1836,
+      "name": "Julia Davis",
+      "profile_path": "/wsUNCSKoNQTgSdlr9FIeIR6hRAd.jpg",
+      "character": "Linda Le Bon (voice)"
+    },
+    {
+      "id": 11115,
+      "name": "Peter Serafinowicz",
+      "profile_path": "/atXOX0UQzIZkcnpNj1cluBdHwAE.jpg",
+      "character": "Big Daddy (voice)"
+    },
+    {
+      "id": 11090,
+      "name": "Edgar Wright",
+      "profile_path": "/dQzv5Ml2SkelS33hgl7E2oh0a9S.jpg",
+      "character": "Additional Voices (voice)"
+    },
+    {
+      "id": 5655,
+      "name": "Wes Anderson",
+      "profile_path": "/oKDlhTjORiTQriqoUFJMTgGiwPg.jpg",
+      "character": "Additional Voices (voice)"
+    }
+  ]
+}

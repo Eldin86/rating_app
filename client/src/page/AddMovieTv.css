@@ -1,0 +1,64 @@
+.Add-movie-tv h2 {
+  text-align: center;
+}
+.Add-movie-tv form {
+  border: 2px solid #2d313a;
+  max-width: 55%;
+  margin: 1rem auto;
+  padding: 1rem 3rem;
+}
+.Add-movie-tv form .Form-group {
+  margin-bottom: 0.7rem;
+}
+.Add-movie-tv form .Form-group span {
+  color: #df3333;
+}
+.Add-movie-tv form .Form-group label {
+  display: inline-block;
+  padding-bottom: 0.35rem;
+}
+.Add-movie-tv form select {
+  background-color: #2d313a;
+  color: #fff;
+  padding: 0.4rem;
+  display: block;
+}
+.Add-movie-tv form select option {
+  margin: 0.4rem;
+}
+.Add-movie-tv input,
+.Add-movie-tv textarea {
+  width: 100%;
+  background-color: #2d313a;
+  color: #fff;
+  padding: 0.4rem;
+}
+
+.Add-movie-tv form .Form-action-btn {
+  background: #3b404d;
+  display: flex;
+  align-items: center;
+  width: 145px;
+  padding: 0.35rem;
+  color: #fff;
+  border-radius: 6px;
+  -webkit-box-shadow: 0px 7px 16px -2px rgba(0, 0, 0, 0.82);
+  box-shadow: 0px 7px 16px -2px rgba(0, 0, 0, 0.82);
+  margin-bottom: 1rem;
+  justify-content: space-between;
+}
+
+input[type='date']::-webkit-calendar-picker-indicator {
+  color: rgba(0, 0, 0, 0);
+  opacity: 1;
+  display: block;
+  background: url(https://mywildalberta.ca/images/GFX-MWA-Parks-Reservations.png)
+    no-repeat;
+  width: 20px;
+  height: 20px;
+  border-width: thin;
+}
+textarea:focus,
+input:focus {
+  outline: none;
+}
