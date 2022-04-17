@@ -39,7 +39,7 @@ const showSchema = new Schema({
     rating: [ratingSchema],
     ratingsAverage: {
         type: Number,
-        min: [1, 'Rating must be 1 or above 1'],//make changes to this validation
+        min: [1, 'Rating must be 1 or above 1'],
         max: [10, 'Rating must be 10 or below 10'],
         default: 1,
         set: val => Math.round(val * 10) / 10 //Round number
@@ -55,7 +55,6 @@ const showSchema = new Schema({
         }
     ]
 }, {
-    //If no virtuals remove this objects
     toJSON: { virtuals: true },
     toObject: { virtuals: true }
 })

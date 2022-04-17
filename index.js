@@ -23,7 +23,7 @@ process.on('uncaughtException', err => {
     process.exit(1)
 })
 
-//Added
+
 app.use(express.static(path.join(__dirname, "client", "build")))
 
 app.use(express.json())
@@ -44,7 +44,7 @@ app.use(cors({
 app.use('/api/v1/rating', ratingRoutes)
 app.use('/api/v1/show', showRoutes)
 app.use('/', authRoutes)
-//Added
+
 app.get('*', function (req, res) {
     res.sendFile(path.join(__dirname, 'client', 'build', 'index.html'));
 });

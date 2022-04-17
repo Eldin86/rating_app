@@ -22,13 +22,13 @@ export const useHttp = () => {
             })
             activeHttpRequests.current = activeHttpRequests.current.filter(reqCtrl => reqCtrl !== controller.abort())
             setIsLoading(false)
-            //console.log(response)
+            
             return response.data
         } catch (error) {
             setError(error.response.data)
             setIsLoading(false)
         }
-        //return () => controller.abort()
+        
 
     }), [])
 
